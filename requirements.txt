@@ -1,0 +1,60 @@
+# =============================================================================
+# Multimodal Crime / Incident Report Analyzer
+# AI for Engineers — Group Assignment
+# requirements.txt — All dependencies for all 5 student notebooks
+# =============================================================================
+
+# ── STUDENT 1(PHANI) — AUDIO ANALYST ─────────────────────────────────────────────────
+openai-whisper          # Speech-to-text transcription (Whisper by OpenAI)
+torch                   # PyTorch — required by Whisper and HuggingFace
+torchaudio              # Audio processing for Whisper
+
+# ── STUDENT 2 (SHASHANK)  — DOCUMENT ANALYST ─────────────────────────────────────────────
+pdfplumber              # PDF text extraction (primary — text-based PDFs)
+pymupdf                 # PyMuPDF / fitz — fast PDF extraction + OCR fallback
+pytesseract             # OCR for scanned PDF images
+Pillow                  # Image processing (required by pytesseract)
+
+# ── STUDENT 3 (HARSHITH) — IMAGE ANALYST ─────────────────────────────────────────────────
+roboflow                # Roboflow API — load trained YOLOv8 fire detection model
+ultralytics             # YOLOv8 object detection framework
+opencv-python-headless  # OpenCV — image preprocessing and frame handling
+
+# ── STUDENT 4 (RAHUL) — VIDEO ANALYST ─────────────────────────────────────────────────
+# ultralytics            # Already listed above (YOLOv8)
+# opencv-python-headless # Already listed above (OpenCV)
+numpy                   # Numerical operations for motion detection
+
+# ── STUDENT 5 (PRAKASH) — TEXT ANALYST ─────────────────────────────────────────────────
+nltk                    # Tokenization, stopword removal, stemming
+transformers            # HuggingFace — sentiment + zero-shot classification
+# torch                 # Already listed above
+
+# ── ALL STUDENTS — SHARED ────────────────────────────────────────────────────
+spacy                   # Named Entity Recognition (NER) across all notebooks
+pandas                  # Structured output generation (CSV)
+
+# ── INTEGRATION — TEAM TASK ──────────────────────────────────────────────────
+# pandas                # Already listed above
+# numpy                 # Already listed above
+
+# =============================================================================
+# INSTALLATION INSTRUCTIONS
+# =============================================================================
+# Install all at once:
+#   pip install -r requirements.txt
+#
+# Download spaCy English model separately:
+#   python -m spacy download en_core_web_sm
+#
+# Install tesseract-ocr (system package — Linux/Colab):
+#   apt-get install -y tesseract-ocr
+#
+# Platform Notes:
+#   Student 1 (Audio)  → Run on Kaggle  (free GPU + 911 dataset)
+#   Student 2 (PDF)    → Run on Colab   (Google Drive access)
+#   Student 3 (Image)  → Run on Colab   (Roboflow API + Drive)
+#   Student 4 (Video)  → Run on Colab   (CAVIAR dataset in Drive)
+#   Student 5 (Text)   → Run on Colab   (CrimeReport.txt in Drive)
+#   Integration        → Run on Colab   (all 5 CSVs in Drive)
+# =============================================================================
