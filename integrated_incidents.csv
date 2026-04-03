@@ -1,0 +1,704 @@
+Incident_ID,Audio_Event,PDF_Doc_Type,Image_Objects,Video_Event,Text_Crime_Type,Severity
+INC_001,Unknown incident,1033 Training Proposal,fire (0.82),Person walking,Assault,High
+INC_002,Robbery / theft in progress,Standard Operating Procedure,fire (0.74),Person walking,Unknown,High
+INC_003,Unknown incident,Police Document,fire (0.93),Person walking,Assault,High
+INC_004,Unknown incident,Lesson Plan,fire (0.94),Person walking,Murder,High
+INC_005,Unknown incident,Police Document,fire (0.88),Person walking,Unknown,High
+INC_006,Unknown incident,Police Document,fire (0.95),Person walking,Robbery,High
+INC_007,Missing person report,1033 Training Proposal,fire (0.92),Person walking,Unknown,High
+INC_008,Unknown incident,Police Document,fire (0.85),Person walking,Unknown,High
+INC_009,Unknown incident,Police Document,fire (0.88),Person walking,Drug Offense,High
+INC_010,Public disturbance / riot,Police Document,fire (0.88),Person walking,Unknown,High
+INC_011,Unknown incident,1033 Training Proposal,fire (0.85),Person walking,Unknown,High
+INC_012,Physical assault / fight,Police Document,fire (0.61),Person walking,Unknown,High
+INC_013,Unknown incident,1033 Training Proposal,fire (0.9),Person walking,Unknown,High
+INC_014,Unknown incident,1033 Training Proposal,fire (0.89),Person walking,Disturbance,High
+INC_015,Missing person report,Lesson Plan,fire (0.89),Person walking,Unknown,High
+INC_016,Unknown incident,1033 Training Proposal,fire (0.91),Person walking,Robbery,High
+INC_017,Unknown incident,Lesson Plan,fire (0.9),Person walking,Robbery,High
+INC_018,Robbery / theft in progress,Police Document,fire (0.91),Person walking,Robbery,High
+INC_019,Unknown incident,Police Document,fire (0.89),Person walking,Disturbance,High
+INC_020,Missing person report,Police Document,fire (0.83),Person walking,Robbery,High
+INC_021,Physical assault / fight,1033 Training Proposal,fire (0.82),Person walking,Unknown,High
+INC_022,Unknown incident,Police Document,fire (0.9),Person walking,Unknown,High
+INC_023,Unknown incident,Standard Operating Procedure,fire (0.89),Person walking,Robbery,High
+INC_024,Unknown incident,Police Document,fire (0.88),Person walking,Unknown,High
+INC_025,Unknown incident,Police Document,fire (0.83),Person walking,Unknown,High
+INC_026,Building fire / trapped persons,1033 Training Proposal,fire (0.83),Person walking,Unknown,High
+INC_027,Unknown incident,Police Document,fire (0.82),Person walking,Robbery,High
+INC_028,Road accident / vehicle crash,Police Document,fire (0.79),Person walking,Unknown,High
+INC_029,Unknown incident,Police Document,fire (0.87),Person walking,Unknown,High
+INC_030,Unknown incident,Standard Operating Procedure,fire (0.84),Person walking,Fire / Arson,High
+INC_031,Robbery / theft in progress,Police Document,fire (0.88),Person walking,Unknown,High
+INC_032,Unknown incident,Police Document,fire (0.9),Person walking,Unknown,High
+INC_033,Building fire / trapped persons,Memorandum,fire (0.86),Person walking,Assault,High
+INC_034,Unknown incident,Aircraft Request,fire (0.86),Person walking,Unknown,High
+INC_035,Unknown incident,Aircraft Request,fire (0.87),Person walking,Unknown,High
+INC_036,Road accident / vehicle crash,1033 Training Proposal,fire (0.86),Person walking,Unknown,High
+INC_037,Unknown incident,Police Document,fire (0.87),Person walking,Unknown,High
+INC_038,Unknown incident,1033 Training Proposal,fire (0.85),Person walking,Disturbance,High
+INC_039,Unknown incident,1033 Training Proposal,fire (0.85),Person walking,Murder,High
+INC_040,Unknown incident,1033 Training Proposal,fire (0.83),Person walking,Unknown,High
+INC_041,Unknown incident,1033 Training Proposal,fire (0.54),Person walking,Unknown,High
+INC_042,Robbery / theft in progress,Police Document,fire (0.84),Person walking,Unknown,High
+INC_043,Road accident / vehicle crash,N/A,fire (0.85),Person walking,Unknown,High
+INC_044,Medical emergency,N/A,fire (0.86),Person walking,Assault,High
+INC_045,Missing person report,N/A,fire (0.86),Person walking,Unknown,High
+INC_046,Missing person report,N/A,fire (0.82),Person walking,Unknown,High
+INC_047,Road accident / vehicle crash,N/A,fire (0.83),Person walking,Fire / Arson,High
+INC_048,Unknown incident,N/A,fire (0.88),Person walking,Unknown,High
+INC_049,Unknown incident,N/A,fire (0.91),Person walking,Unknown,High
+INC_050,Unknown incident,N/A,N/A,Person walking,Assault,High
+INC_051,Robbery / theft in progress,N/A,fire (0.93),Person walking,Assault,High
+INC_052,Physical assault / fight,N/A,fire (0.93),Person walking,Unknown,High
+INC_053,Medical emergency,N/A,fire (0.9),Person walking,Unknown,High
+INC_054,Unknown incident,N/A,fire (0.9),Person walking,Unknown,High
+INC_055,Unknown incident,N/A,fire (0.9),Person walking,Unknown,High
+INC_056,Unknown incident,N/A,fire (0.86),Person walking,Unknown,High
+INC_057,Robbery / theft in progress,N/A,fire (0.89),Person walking,Unknown,High
+INC_058,Unknown incident,N/A,fire (0.9),Person walking,Disturbance,High
+INC_059,Unknown incident,N/A,fire (0.88),Person walking,Disturbance,High
+INC_060,Unknown incident,N/A,fire (0.84),Person walking,Unknown,High
+INC_061,Unknown incident,N/A,fire (0.94),Person walking,Unknown,High
+INC_062,Unknown incident,N/A,fire (0.91),Person walking,Disturbance,High
+INC_063,Unknown incident,N/A,fire (0.93),Person walking,Unknown,High
+INC_064,Unknown incident,N/A,fire (0.86),Person walking,Robbery,High
+INC_065,Unknown incident,N/A,fire (0.78),Person walking,Unknown,High
+INC_066,Unknown incident,N/A,fire (0.92),Person walking,Assault,High
+INC_067,Medical emergency,N/A,fire (0.85),Person walking,Assault,High
+INC_068,Unknown incident,N/A,fire (0.85),Person walking,Assault,High
+INC_069,Unknown incident,N/A,fire (0.88),Person walking,Assault,High
+INC_070,Road accident / vehicle crash,N/A,fire (0.9),Person walking,Unknown,High
+INC_071,Road accident / vehicle crash,N/A,fire (0.9),Fight detected,Assault,High
+INC_072,Unknown incident,N/A,fire (0.92),Fight detected,Unknown,High
+INC_073,Unknown incident,N/A,fire (0.91),Fight detected,Drug Offense,High
+INC_074,Unknown incident,N/A,fire (0.9),Fight detected,Unknown,High
+INC_075,Unknown incident,N/A,fire (0.8),Fight detected,Assault,High
+INC_076,Unknown incident,N/A,fire (0.95),Fight detected,Drug Offense,High
+INC_077,Unknown incident,N/A,fire (0.85),Fight detected,Drug Offense,High
+INC_078,Unknown incident,N/A,fire (0.83),Fight detected,Robbery,High
+INC_079,Unknown incident,N/A,fire (0.82),Fight detected,Unknown,High
+INC_080,Unknown incident,N/A,fire (0.83),Fight detected,Unknown,High
+INC_081,Physical assault / fight,N/A,fire (0.82),Fight detected,Unknown,High
+INC_082,Unknown incident,N/A,fire (0.88),Fight detected,Unknown,High
+INC_083,Road accident / vehicle crash,N/A,fire (0.94),Fight detected,Drug Offense,High
+INC_084,Physical assault / fight,N/A,fire (0.85),Fight detected,Drug Offense,High
+INC_085,Unknown incident,N/A,fire (0.86),Fight detected,Drug Offense,High
+INC_086,Building fire / trapped persons,N/A,fire (0.88),Fight detected,Robbery,High
+INC_087,Unknown incident,N/A,fire (0.92),Fight detected,Drug Offense,High
+INC_088,Unknown incident,N/A,fire (0.9),Fight detected,Drug Offense,High
+INC_089,Missing person report,N/A,fire (0.9),Fight detected,Drug Offense,High
+INC_090,Unknown incident,N/A,fire (0.9),Fight detected,Unknown,High
+INC_091,Road accident / vehicle crash,N/A,fire (0.85),Fight detected,Unknown,High
+INC_092,Unknown incident,N/A,fire (0.85),Fight detected,Unknown,High
+INC_093,Unknown incident,N/A,fire (0.89),Fight detected,Accident,High
+INC_094,Unknown incident,N/A,fire (0.9),Fight detected,Unknown,High
+INC_095,Physical assault / fight,N/A,fire (0.9),Fight detected,Unknown,High
+INC_096,Unknown incident,N/A,fire (0.85),Fight detected,Robbery,High
+INC_097,Physical assault / fight,N/A,fire (0.94),Fight detected,Drug Offense,High
+INC_098,Unknown incident,N/A,fire (0.87),Fight detected,Unknown,High
+INC_099,Unknown incident,N/A,fire (0.9),Fight detected,Vandalism,High
+INC_100,Robbery / theft in progress,N/A,fire (0.82),Fight detected,Robbery,High
+INC_101,Unknown incident,N/A,fire (0.88),Fight detected,Unknown,High
+INC_102,Unknown incident,N/A,fire (0.91),Fight detected,Robbery,High
+INC_103,Road accident / vehicle crash,N/A,fire (0.88),Fight detected,Murder,High
+INC_104,Medical emergency,N/A,fire (0.83),Fight detected,Fire / Arson,High
+INC_105,Unknown incident,N/A,fire (0.93),Fight detected,Unknown,High
+INC_106,Unknown incident,N/A,fire (0.9),Fight detected,Fire / Arson,High
+INC_107,Road accident / vehicle crash,N/A,fire (0.85),Fight detected,Unknown,High
+INC_108,Unknown incident,N/A,fire (0.92),Fight detected,Unknown,High
+INC_109,Unknown incident,N/A,fire (0.94),Fight detected,Unknown,High
+INC_110,Robbery / theft in progress,N/A,fire (0.85),Fight detected,Unknown,High
+INC_111,Unknown incident,N/A,fire (0.9),Fight detected,Unknown,High
+INC_112,Robbery / theft in progress,N/A,fire (0.84),Fight detected,Unknown,High
+INC_113,Unknown incident,N/A,fire (0.94),Fight detected,Drug Offense,High
+INC_114,Unknown incident,N/A,fire (0.9),Fight detected,Unknown,High
+INC_115,Unknown incident,N/A,fire (0.78),Fight detected,N/A,High
+INC_116,Unknown incident,N/A,fire (0.85),Fight detected,N/A,High
+INC_117,Unknown incident,N/A,fire (0.87),Fight detected,N/A,High
+INC_118,Unknown incident,N/A,fire (0.9),Fight detected,N/A,High
+INC_119,Unknown incident,N/A,fire (0.89),Fight detected,N/A,High
+INC_120,Unknown incident,N/A,fire (0.89),Fight detected,N/A,High
+INC_121,Unknown incident,N/A,fire (0.86),Fight detected,N/A,High
+INC_122,Road accident / vehicle crash,N/A,fire (0.89),Fight detected,N/A,High
+INC_123,Unknown incident,N/A,fire (0.92),Fight detected,N/A,High
+INC_124,Unknown incident,N/A,fire (0.87),Fight detected,N/A,High
+INC_125,Unknown incident,N/A,fire (0.89),Fight detected,N/A,High
+INC_126,Unknown incident,N/A,fire (0.88),Fight detected,N/A,High
+INC_127,Road accident / vehicle crash,N/A,fire (0.83),Fight detected,N/A,High
+INC_128,Road accident / vehicle crash,N/A,fire (0.8),Fight detected,N/A,High
+INC_129,Unknown incident,N/A,fire (0.87),Fight detected,N/A,High
+INC_130,Medical emergency,N/A,fire (0.88),Fight detected,N/A,High
+INC_131,Road accident / vehicle crash,N/A,fire (0.91),Fight detected,N/A,High
+INC_132,Road accident / vehicle crash,N/A,fire (0.89),Fight detected,N/A,High
+INC_133,Road accident / vehicle crash,N/A,fire (0.88),Fight detected,N/A,High
+INC_134,Unknown incident,N/A,fire (0.84),No activity,N/A,High
+INC_135,Unknown incident,N/A,fire (0.89),Person walking,N/A,High
+INC_136,Unknown incident,N/A,fire (0.93),Person walking,N/A,High
+INC_137,Unknown incident,N/A,N/A,Person walking,N/A,Medium
+INC_138,Unknown incident,N/A,fire (0.88),Person walking,N/A,High
+INC_139,Unknown incident,N/A,fire (0.86),Person walking,N/A,High
+INC_140,Unknown incident,N/A,fire (0.87),Person walking,N/A,High
+INC_141,Unknown incident,N/A,fire (0.91),Person walking,N/A,High
+INC_142,Unknown incident,N/A,fire (0.84),Person walking,N/A,High
+INC_143,Road accident / vehicle crash,N/A,fire (0.45),Person walking,N/A,High
+INC_144,Unknown incident,N/A,fire (0.92),No activity,N/A,High
+INC_145,Unknown incident,N/A,fire (0.81),Person walking,N/A,High
+INC_146,Unknown incident,N/A,fire (0.89),Person walking,N/A,High
+INC_147,Unknown incident,N/A,fire (0.89),No activity,N/A,High
+INC_148,Physical assault / fight,N/A,fire (0.91),No activity,N/A,High
+INC_149,Unknown incident,N/A,fire (0.87),Person walking,N/A,High
+INC_150,Unknown incident,N/A,fire (0.88),Person walking,N/A,High
+INC_151,Unknown incident,N/A,fire (0.93),No activity,N/A,High
+INC_152,Unknown incident,N/A,fire (0.92),Person walking,N/A,High
+INC_153,Robbery / theft in progress,N/A,fire (0.91),Person walking,N/A,High
+INC_154,Physical assault / fight,N/A,fire (0.9),No activity,N/A,High
+INC_155,Unknown incident,N/A,fire (0.91),Person walking,N/A,High
+INC_156,Road accident / vehicle crash,N/A,fire (0.86),Person walking,N/A,High
+INC_157,Unknown incident,N/A,fire (0.85),Person walking,N/A,High
+INC_158,Unknown incident,N/A,fire (0.9),Person walking,N/A,High
+INC_159,Unknown incident,N/A,fire (0.87),Person walking,N/A,High
+INC_160,Unknown incident,N/A,fire (0.87),Person walking,N/A,High
+INC_161,Unknown incident,N/A,fire (0.9),Person walking,N/A,High
+INC_162,Unknown incident,N/A,fire (0.81),Person walking,N/A,High
+INC_163,Unknown incident,N/A,fire (0.9),Person walking,N/A,High
+INC_164,Unknown incident,N/A,fire (0.78),Person walking,N/A,High
+INC_165,Unknown incident,N/A,fire (0.91),Person walking,N/A,High
+INC_166,Unknown incident,N/A,fire (0.88),Person walking,N/A,High
+INC_167,Road accident / vehicle crash,N/A,fire (0.89),Person walking,N/A,High
+INC_168,Unknown incident,N/A,fire (0.89),No activity,N/A,High
+INC_169,Unknown incident,N/A,fire (0.89),No activity,N/A,High
+INC_170,Unknown incident,N/A,fire (0.89),Person walking,N/A,High
+INC_171,Unknown incident,N/A,fire (0.87),Person walking,N/A,High
+INC_172,Unknown incident,N/A,fire (0.91),No activity,N/A,High
+INC_173,Unknown incident,N/A,fire (0.91),No activity,N/A,High
+INC_174,Road accident / vehicle crash,N/A,fire (0.85),No activity,N/A,High
+INC_175,Robbery / theft in progress,N/A,fire (0.82),Person walking,N/A,High
+INC_176,Unknown incident,N/A,fire (0.85),Person walking,N/A,High
+INC_177,Building fire / trapped persons,N/A,fire (0.92),Person walking,N/A,High
+INC_178,Unknown incident,N/A,fire (0.87),Person walking,N/A,High
+INC_179,Unknown incident,N/A,fire (0.92),Person walking,N/A,High
+INC_180,Unknown incident,N/A,fire (0.82),Person walking,N/A,High
+INC_181,Unknown incident,N/A,fire (0.88),Person walking,N/A,High
+INC_182,Robbery / theft in progress,N/A,fire (0.74),Person walking,N/A,High
+INC_183,Unknown incident,N/A,fire (0.89),Person walking,N/A,High
+INC_184,Unknown incident,N/A,fire (0.89),Person walking,N/A,High
+INC_185,Unknown incident,N/A,fire (0.85),No activity,N/A,High
+INC_186,Physical assault / fight,N/A,fire (0.89),Person walking,N/A,High
+INC_187,Road accident / vehicle crash,N/A,fire (0.93),Person walking,N/A,High
+INC_188,Unknown incident,N/A,fire (0.92),N/A,N/A,High
+INC_189,Unknown incident,N/A,fire (0.67),N/A,N/A,High
+INC_190,Unknown incident,N/A,fire (0.88),N/A,N/A,High
+INC_191,Road accident / vehicle crash,N/A,fire (0.8),N/A,N/A,High
+INC_192,Unknown incident,N/A,fire (0.92),N/A,N/A,High
+INC_193,Unknown incident,N/A,fire (0.88),N/A,N/A,High
+INC_194,Unknown incident,N/A,fire (0.91),N/A,N/A,High
+INC_195,Unknown incident,N/A,fire (0.91),N/A,N/A,High
+INC_196,Unknown incident,N/A,fire (0.89),N/A,N/A,High
+INC_197,Unknown incident,N/A,fire (0.93),N/A,N/A,High
+INC_198,Unknown incident,N/A,fire (0.92),N/A,N/A,High
+INC_199,Unknown incident,N/A,fire (0.86),N/A,N/A,High
+INC_200,Unknown incident,N/A,fire (0.83),N/A,N/A,High
+INC_201,Physical assault / fight,N/A,fire (0.86),N/A,N/A,High
+INC_202,Building fire / trapped persons,N/A,fire (0.8),N/A,N/A,High
+INC_203,Physical assault / fight,N/A,fire (0.84),N/A,N/A,High
+INC_204,Unknown incident,N/A,fire (0.9),N/A,N/A,High
+INC_205,Unknown incident,N/A,fire (0.92),N/A,N/A,High
+INC_206,Building fire / trapped persons,N/A,fire (0.88),N/A,N/A,High
+INC_207,Medical emergency,N/A,fire (0.86),N/A,N/A,High
+INC_208,Building fire / trapped persons,N/A,fire (0.9),N/A,N/A,High
+INC_209,Medical emergency,N/A,fire (0.92),N/A,N/A,High
+INC_210,Unknown incident,N/A,fire (0.9),N/A,N/A,High
+INC_211,Unknown incident,N/A,fire (0.9),N/A,N/A,High
+INC_212,Road accident / vehicle crash,N/A,fire (0.91),N/A,N/A,High
+INC_213,Unknown incident,N/A,fire (0.92),N/A,N/A,High
+INC_214,Unknown incident,N/A,fire (0.91),N/A,N/A,High
+INC_215,Unknown incident,N/A,fire (0.89),N/A,N/A,High
+INC_216,Road accident / vehicle crash,N/A,fire (0.88),N/A,N/A,High
+INC_217,Building fire / trapped persons,N/A,fire (0.91),N/A,N/A,High
+INC_218,Unknown incident,N/A,fire (0.86),N/A,N/A,High
+INC_219,Unknown incident,N/A,fire (0.87),N/A,N/A,High
+INC_220,Building fire / trapped persons,N/A,fire (0.85),N/A,N/A,High
+INC_221,Unknown incident,N/A,fire (0.83),N/A,N/A,High
+INC_222,Road accident / vehicle crash,N/A,fire (0.9),N/A,N/A,High
+INC_223,Road accident / vehicle crash,N/A,fire (0.84),N/A,N/A,High
+INC_224,Unknown incident,N/A,fire (0.92),N/A,N/A,High
+INC_225,Building fire / trapped persons,N/A,fire (0.87),N/A,N/A,High
+INC_226,Unknown incident,N/A,fire (0.89),N/A,N/A,High
+INC_227,Unknown incident,N/A,fire (0.84),N/A,N/A,High
+INC_228,Unknown incident,N/A,fire (0.9),N/A,N/A,High
+INC_229,Unknown incident,N/A,fire (0.88),N/A,N/A,High
+INC_230,Building fire / trapped persons,N/A,fire (0.87),N/A,N/A,High
+INC_231,Unknown incident,N/A,fire (0.92),N/A,N/A,High
+INC_232,Unknown incident,N/A,fire (0.85),N/A,N/A,High
+INC_233,Building fire / trapped persons,N/A,fire (0.92),N/A,N/A,High
+INC_234,Suspicious activity,N/A,fire (0.84),N/A,N/A,High
+INC_235,Unknown incident,N/A,fire (0.88),N/A,N/A,High
+INC_236,Unknown incident,N/A,fire (0.87),N/A,N/A,High
+INC_237,Unknown incident,N/A,fire (0.9),N/A,N/A,High
+INC_238,Unknown incident,N/A,fire (0.86),N/A,N/A,High
+INC_239,Physical assault / fight,N/A,fire (0.88),N/A,N/A,High
+INC_240,Suspicious activity,N/A,smoke (0.84),N/A,N/A,Low
+INC_241,Physical assault / fight,N/A,fire (0.91),N/A,N/A,High
+INC_242,Unknown incident,N/A,fire (0.9),N/A,N/A,High
+INC_243,Unknown incident,N/A,fire (0.88),N/A,N/A,High
+INC_244,Unknown incident,N/A,fire (0.88),N/A,N/A,High
+INC_245,Unknown incident,N/A,fire (0.88),N/A,N/A,High
+INC_246,Unknown incident,N/A,fire (0.86),N/A,N/A,High
+INC_247,Unknown incident,N/A,fire (0.85),N/A,N/A,High
+INC_248,Unknown incident,N/A,fire (0.89),N/A,N/A,High
+INC_249,Robbery / theft in progress,N/A,fire (0.86),N/A,N/A,High
+INC_250,Unknown incident,N/A,fire (0.86),N/A,N/A,High
+INC_251,Unknown incident,N/A,fire (0.93),N/A,N/A,High
+INC_252,Road accident / vehicle crash,N/A,fire (0.9),N/A,N/A,High
+INC_253,Unknown incident,N/A,fire (0.88),N/A,N/A,High
+INC_254,Physical assault / fight,N/A,fire (0.91),N/A,N/A,High
+INC_255,Unknown incident,N/A,fire (0.87),N/A,N/A,High
+INC_256,Unknown incident,N/A,fire (0.9),N/A,N/A,High
+INC_257,Road accident / vehicle crash,N/A,fire (0.87),N/A,N/A,High
+INC_258,Unknown incident,N/A,fire (0.89),N/A,N/A,High
+INC_259,Physical assault / fight,N/A,fire (0.89),N/A,N/A,High
+INC_260,Unknown incident,N/A,fire (0.83),N/A,N/A,High
+INC_261,Road accident / vehicle crash,N/A,fire (0.9),N/A,N/A,High
+INC_262,Unknown incident,N/A,fire (0.91),N/A,N/A,High
+INC_263,Unknown incident,N/A,fire (0.89),N/A,N/A,High
+INC_264,Physical assault / fight,N/A,fire (0.9),N/A,N/A,High
+INC_265,Robbery / theft in progress,N/A,fire (0.9),N/A,N/A,High
+INC_266,Unknown incident,N/A,fire (0.87),N/A,N/A,High
+INC_267,Building fire / trapped persons,N/A,fire (0.89),N/A,N/A,High
+INC_268,Unknown incident,N/A,fire (0.83),N/A,N/A,High
+INC_269,Unknown incident,N/A,fire (0.82),N/A,N/A,High
+INC_270,Robbery / theft in progress,N/A,fire (0.89),N/A,N/A,High
+INC_271,Physical assault / fight,N/A,fire (0.87),N/A,N/A,High
+INC_272,Unknown incident,N/A,fire (0.86),N/A,N/A,High
+INC_273,Physical assault / fight,N/A,light (0.95),N/A,N/A,High
+INC_274,Unknown incident,N/A,light (0.92),N/A,N/A,Low
+INC_275,Unknown incident,N/A,light (0.92),N/A,N/A,Low
+INC_276,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_277,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_278,Building fire / trapped persons,N/A,light (0.88),N/A,N/A,High
+INC_279,Road accident / vehicle crash,N/A,light (0.81),N/A,N/A,Medium
+INC_280,Physical assault / fight,N/A,light (0.93),N/A,N/A,High
+INC_281,Unknown incident,N/A,light (0.91),N/A,N/A,Low
+INC_282,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_283,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_284,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_285,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_286,Missing person report,N/A,light (0.91),N/A,N/A,Medium
+INC_287,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_288,Road accident / vehicle crash,N/A,light (0.9),N/A,N/A,Medium
+INC_289,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_290,Road accident / vehicle crash,N/A,light (0.93),N/A,N/A,Medium
+INC_291,Unknown incident,N/A,light (0.94),N/A,N/A,Low
+INC_292,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_293,Robbery / theft in progress,N/A,light (0.93),N/A,N/A,Medium
+INC_294,Road accident / vehicle crash,N/A,light (0.88),N/A,N/A,Medium
+INC_295,Medical emergency,N/A,light (0.94),N/A,N/A,Low
+INC_296,Medical emergency,N/A,light (0.89),N/A,N/A,Low
+INC_297,Robbery / theft in progress,N/A,light (0.92),N/A,N/A,Medium
+INC_298,Unknown incident,N/A,light (0.91),N/A,N/A,Low
+INC_299,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_300,Medical emergency,N/A,light (0.89),N/A,N/A,Low
+INC_301,Missing person report,N/A,light (0.91),N/A,N/A,Medium
+INC_302,Missing person report,N/A,light (0.88),N/A,N/A,Medium
+INC_303,Unknown incident,N/A,light (0.91),N/A,N/A,Low
+INC_304,Unknown incident,N/A,light (0.89),N/A,N/A,Low
+INC_305,Public disturbance / riot,N/A,light (0.91),N/A,N/A,Medium
+INC_306,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_307,Unknown incident,N/A,light (0.92),N/A,N/A,Low
+INC_308,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_309,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_310,Building fire / trapped persons,N/A,light (0.95),N/A,N/A,High
+INC_311,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_312,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_313,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_314,Road accident / vehicle crash,N/A,light (0.91),N/A,N/A,Medium
+INC_315,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_316,Missing person report,N/A,light (0.94),N/A,N/A,Medium
+INC_317,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_318,Unknown incident,N/A,light (0.92),N/A,N/A,Low
+INC_319,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_320,Unknown incident,N/A,light (0.92),N/A,N/A,Low
+INC_321,Medical emergency,N/A,light (0.9),N/A,N/A,Low
+INC_322,Unknown incident,N/A,light (0.92),N/A,N/A,Low
+INC_323,Unknown incident,N/A,light (0.94),N/A,N/A,Low
+INC_324,Physical assault / fight,N/A,light (0.91),N/A,N/A,High
+INC_325,Unknown incident,N/A,light (0.64),N/A,N/A,Low
+INC_326,Robbery / theft in progress,N/A,light (0.58),N/A,N/A,Medium
+INC_327,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_328,Unknown incident,N/A,light (0.82),N/A,N/A,Low
+INC_329,Unknown incident,N/A,light (0.68),N/A,N/A,Low
+INC_330,Unknown incident,N/A,light (0.75),N/A,N/A,Low
+INC_331,Unknown incident,N/A,light (0.7),N/A,N/A,Low
+INC_332,Physical assault / fight,N/A,light (0.65),N/A,N/A,High
+INC_333,Unknown incident,N/A,light (0.76),N/A,N/A,Low
+INC_334,Building fire / trapped persons,N/A,light (0.78),N/A,N/A,High
+INC_335,Unknown incident,N/A,light (0.84),N/A,N/A,Low
+INC_336,Unknown incident,N/A,light (0.82),N/A,N/A,Low
+INC_337,Missing person report,N/A,light (0.78),N/A,N/A,Medium
+INC_338,Medical emergency,N/A,light (0.82),N/A,N/A,Low
+INC_339,Building fire / trapped persons,N/A,light (0.76),N/A,N/A,High
+INC_340,Unknown incident,N/A,light (0.79),N/A,N/A,Low
+INC_341,Unknown incident,N/A,light (0.82),N/A,N/A,Low
+INC_342,Unknown incident,N/A,light (0.82),N/A,N/A,Low
+INC_343,Unknown incident,N/A,light (0.89),N/A,N/A,Low
+INC_344,Unknown incident,N/A,light (0.81),N/A,N/A,Low
+INC_345,Medical emergency,N/A,light (0.87),N/A,N/A,Low
+INC_346,Building fire / trapped persons,N/A,light (0.93),N/A,N/A,High
+INC_347,Unknown incident,N/A,light (0.96),N/A,N/A,Low
+INC_348,Road accident / vehicle crash,N/A,light (0.91),N/A,N/A,Medium
+INC_349,Unknown incident,N/A,light (0.84),N/A,N/A,Low
+INC_350,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_351,Building fire / trapped persons,N/A,light (0.89),N/A,N/A,High
+INC_352,Unknown incident,N/A,light (0.94),N/A,N/A,Low
+INC_353,Robbery / theft in progress,N/A,light (0.92),N/A,N/A,Medium
+INC_354,Unknown incident,N/A,light (0.92),N/A,N/A,Low
+INC_355,Unknown incident,N/A,light (0.93),N/A,N/A,Low
+INC_356,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_357,Physical assault / fight,N/A,light (0.94),N/A,N/A,High
+INC_358,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_359,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_360,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_361,Unknown incident,N/A,light (0.91),N/A,N/A,Low
+INC_362,Physical assault / fight,N/A,light (0.89),N/A,N/A,High
+INC_363,Physical assault / fight,N/A,light (0.91),N/A,N/A,High
+INC_364,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_365,Road accident / vehicle crash,N/A,light (0.92),N/A,N/A,Medium
+INC_366,Robbery / theft in progress,N/A,light (0.92),N/A,N/A,Medium
+INC_367,Unknown incident,N/A,light (0.94),N/A,N/A,Low
+INC_368,Unknown incident,N/A,light (0.91),N/A,N/A,Low
+INC_369,Physical assault / fight,N/A,light (0.85),N/A,N/A,High
+INC_370,Unknown incident,N/A,light (0.92),N/A,N/A,Low
+INC_371,Missing person report,N/A,light (0.91),N/A,N/A,Medium
+INC_372,Road accident / vehicle crash,N/A,light (0.89),N/A,N/A,Medium
+INC_373,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_374,Unknown incident,N/A,light (0.82),N/A,N/A,Low
+INC_375,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_376,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_377,Road accident / vehicle crash,N/A,light (0.93),N/A,N/A,Medium
+INC_378,Unknown incident,N/A,light (0.91),N/A,N/A,Low
+INC_379,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_380,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_381,Road accident / vehicle crash,N/A,light (0.84),N/A,N/A,Medium
+INC_382,Unknown incident,N/A,light (0.76),N/A,N/A,Low
+INC_383,Unknown incident,N/A,light (0.79),N/A,N/A,Low
+INC_384,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_385,Unknown incident,N/A,light (0.81),N/A,N/A,Low
+INC_386,Building fire / trapped persons,N/A,light (0.82),N/A,N/A,High
+INC_387,Unknown incident,N/A,light (0.81),N/A,N/A,Low
+INC_388,Road accident / vehicle crash,N/A,light (0.81),N/A,N/A,Medium
+INC_389,Unknown incident,N/A,light (0.79),N/A,N/A,Low
+INC_390,Physical assault / fight,N/A,light (0.79),N/A,N/A,High
+INC_391,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_392,Unknown incident,N/A,light (0.81),N/A,N/A,Low
+INC_393,Unknown incident,N/A,light (0.8),N/A,N/A,Low
+INC_394,Unknown incident,N/A,light (0.79),N/A,N/A,Low
+INC_395,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_396,Unknown incident,N/A,light (0.8),N/A,N/A,Low
+INC_397,Unknown incident,N/A,light (0.8),N/A,N/A,Low
+INC_398,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_399,Physical assault / fight,N/A,light (0.77),N/A,N/A,High
+INC_400,Unknown incident,N/A,light (0.77),N/A,N/A,Low
+INC_401,Unknown incident,N/A,light (0.82),N/A,N/A,Low
+INC_402,Road accident / vehicle crash,N/A,light (0.81),N/A,N/A,Medium
+INC_403,Road accident / vehicle crash,N/A,light (0.82),N/A,N/A,Medium
+INC_404,Road accident / vehicle crash,N/A,light (0.8),N/A,N/A,Medium
+INC_405,Missing person report,N/A,light (0.8),N/A,N/A,Medium
+INC_406,Physical assault / fight,N/A,light (0.77),N/A,N/A,High
+INC_407,Unknown incident,N/A,light (0.8),N/A,N/A,Low
+INC_408,Unknown incident,N/A,light (0.79),N/A,N/A,Low
+INC_409,Robbery / theft in progress,N/A,light (0.78),N/A,N/A,Medium
+INC_410,Building fire / trapped persons,N/A,light (0.77),N/A,N/A,High
+INC_411,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_412,Road accident / vehicle crash,N/A,light (0.77),N/A,N/A,Medium
+INC_413,Road accident / vehicle crash,N/A,light (0.8),N/A,N/A,Medium
+INC_414,Robbery / theft in progress,N/A,light (0.8),N/A,N/A,Medium
+INC_415,Unknown incident,N/A,light (0.84),N/A,N/A,Low
+INC_416,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_417,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_418,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_419,Unknown incident,N/A,light (0.8),N/A,N/A,Low
+INC_420,Missing person report,N/A,light (0.88),N/A,N/A,Medium
+INC_421,Road accident / vehicle crash,N/A,light (0.86),N/A,N/A,Medium
+INC_422,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_423,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_424,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_425,Robbery / theft in progress,N/A,light (0.88),N/A,N/A,Medium
+INC_426,Road accident / vehicle crash,N/A,light (0.88),N/A,N/A,Medium
+INC_427,Building fire / trapped persons,N/A,light (0.88),N/A,N/A,High
+INC_428,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_429,Unknown incident,N/A,light (0.89),N/A,N/A,Low
+INC_430,Missing person report,N/A,light (0.88),N/A,N/A,Medium
+INC_431,Robbery / theft in progress,N/A,light (0.89),N/A,N/A,Medium
+INC_432,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_433,Unknown incident,N/A,light (0.81),N/A,N/A,Low
+INC_434,Medical emergency,N/A,light (0.81),N/A,N/A,Low
+INC_435,Unknown incident,N/A,light (0.81),N/A,N/A,Low
+INC_436,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_437,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_438,Unknown incident,N/A,light (0.77),N/A,N/A,Low
+INC_439,Unknown incident,N/A,light (0.77),N/A,N/A,Low
+INC_440,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_441,Robbery / theft in progress,N/A,light (0.81),N/A,N/A,Medium
+INC_442,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_443,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_444,Building fire / trapped persons,N/A,light (0.8),N/A,N/A,High
+INC_445,Unknown incident,N/A,light (0.74),N/A,N/A,Low
+INC_446,Unknown incident,N/A,light (0.72),N/A,N/A,Low
+INC_447,Building fire / trapped persons,N/A,light (0.71),N/A,N/A,High
+INC_448,Unknown incident,N/A,light (0.73),N/A,N/A,Low
+INC_449,Unknown incident,N/A,light (0.64),N/A,N/A,Low
+INC_450,Road accident / vehicle crash,N/A,light (0.8),N/A,N/A,Medium
+INC_451,Unknown incident,N/A,light (0.79),N/A,N/A,Low
+INC_452,Unknown incident,N/A,light (0.8),N/A,N/A,Low
+INC_453,Medical emergency,N/A,light (0.77),N/A,N/A,Low
+INC_454,Robbery / theft in progress,N/A,light (0.73),N/A,N/A,Medium
+INC_455,Unknown incident,N/A,light (0.75),N/A,N/A,Low
+INC_456,Suspicious activity,N/A,light (0.83),N/A,N/A,Low
+INC_457,Medical emergency,N/A,light (0.85),N/A,N/A,Low
+INC_458,Robbery / theft in progress,N/A,light (0.86),N/A,N/A,Medium
+INC_459,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_460,Public disturbance / riot,N/A,light (0.83),N/A,N/A,Medium
+INC_461,Unknown incident,N/A,light (0.81),N/A,N/A,Low
+INC_462,Unknown incident,N/A,light (0.76),N/A,N/A,Low
+INC_463,Building fire / trapped persons,N/A,light (0.77),N/A,N/A,High
+INC_464,Medical emergency,N/A,light (0.78),N/A,N/A,Low
+INC_465,Unknown incident,N/A,light (0.76),N/A,N/A,Low
+INC_466,Public disturbance / riot,N/A,light (0.8),N/A,N/A,Medium
+INC_467,Road accident / vehicle crash,N/A,light (0.84),N/A,N/A,Medium
+INC_468,Unknown incident,N/A,light (0.79),N/A,N/A,Low
+INC_469,Public disturbance / riot,N/A,light (0.76),N/A,N/A,Medium
+INC_470,Road accident / vehicle crash,N/A,light (0.7),N/A,N/A,Medium
+INC_471,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_472,Medical emergency,N/A,light (0.78),N/A,N/A,Low
+INC_473,Road accident / vehicle crash,N/A,light (0.77),N/A,N/A,Medium
+INC_474,Physical assault / fight,N/A,light (0.73),N/A,N/A,High
+INC_475,Missing person report,N/A,light (0.71),N/A,N/A,Medium
+INC_476,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_477,Building fire / trapped persons,N/A,light (0.81),N/A,N/A,High
+INC_478,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_479,Unknown incident,N/A,light (0.72),N/A,N/A,Low
+INC_480,Unknown incident,N/A,light (0.74),N/A,N/A,Low
+INC_481,Unknown incident,N/A,light (0.7),N/A,N/A,Low
+INC_482,Robbery / theft in progress,N/A,light (0.68),N/A,N/A,Medium
+INC_483,Unknown incident,N/A,light (0.7),N/A,N/A,Low
+INC_484,Unknown incident,N/A,light (0.65),N/A,N/A,Low
+INC_485,Unknown incident,N/A,light (0.84),N/A,N/A,Low
+INC_486,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_487,Unknown incident,N/A,light (0.84),N/A,N/A,Low
+INC_488,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_489,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_490,Unknown incident,N/A,light (0.85),N/A,N/A,Low
+INC_491,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_492,Road accident / vehicle crash,N/A,light (0.85),N/A,N/A,Medium
+INC_493,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_494,Physical assault / fight,N/A,light (0.87),N/A,N/A,High
+INC_495,Unknown incident,N/A,light (0.84),N/A,N/A,Low
+INC_496,Suspicious activity,N/A,light (0.84),N/A,N/A,Low
+INC_497,Unknown incident,N/A,light (0.83),N/A,N/A,Low
+INC_498,Unknown incident,N/A,light (0.84),N/A,N/A,Low
+INC_499,Building fire / trapped persons,N/A,light (0.81),N/A,N/A,High
+INC_500,Road accident / vehicle crash,N/A,light (0.87),N/A,N/A,Medium
+INC_501,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_502,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_503,Robbery / theft in progress,N/A,light (0.87),N/A,N/A,Medium
+INC_504,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_505,Medical emergency,N/A,light (0.87),N/A,N/A,Low
+INC_506,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_507,Unknown incident,N/A,light (0.86),N/A,N/A,Low
+INC_508,Road accident / vehicle crash,N/A,light (0.86),N/A,N/A,Medium
+INC_509,Missing person report,N/A,light (0.86),N/A,N/A,Medium
+INC_510,Physical assault / fight,N/A,light (0.87),N/A,N/A,High
+INC_511,Unknown incident,N/A,light (0.89),N/A,N/A,Low
+INC_512,Physical assault / fight,N/A,light (0.79),N/A,N/A,High
+INC_513,Unknown incident,N/A,light (0.77),N/A,N/A,Low
+INC_514,Unknown incident,N/A,light (0.77),N/A,N/A,Low
+INC_515,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_516,Medical emergency,N/A,light (0.77),N/A,N/A,Low
+INC_517,Physical assault / fight,N/A,light (0.75),N/A,N/A,High
+INC_518,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_519,Unknown incident,N/A,light (0.78),N/A,N/A,Low
+INC_520,Road accident / vehicle crash,N/A,light (0.86),N/A,N/A,Medium
+INC_521,Medical emergency,N/A,light (0.86),N/A,N/A,Low
+INC_522,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_523,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_524,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_525,Robbery / theft in progress,N/A,light (0.9),N/A,N/A,Medium
+INC_526,Unknown incident,N/A,light (0.9),N/A,N/A,Low
+INC_527,Unknown incident,N/A,light (0.88),N/A,N/A,Low
+INC_528,Unknown incident,N/A,light (0.77),N/A,N/A,Low
+INC_529,Unknown incident,N/A,light (0.57),N/A,N/A,Low
+INC_530,Robbery / theft in progress,N/A,light (0.74),N/A,N/A,Medium
+INC_531,Unknown incident,N/A,light (0.65),N/A,N/A,Low
+INC_532,Unknown incident,N/A,light (0.91),N/A,N/A,Low
+INC_533,Unknown incident,N/A,light (0.91),N/A,N/A,Low
+INC_534,Unknown incident,N/A,light (0.87),N/A,N/A,Low
+INC_535,Unknown incident,N/A,light (0.89),N/A,N/A,Low
+INC_536,Unknown incident,N/A,no-fire (0.93),N/A,N/A,High
+INC_537,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_538,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_539,Physical assault / fight,N/A,no-fire (0.91),N/A,N/A,High
+INC_540,Road accident / vehicle crash,N/A,no-fire (0.94),N/A,N/A,High
+INC_541,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_542,Road accident / vehicle crash,N/A,no-fire (0.9),N/A,N/A,High
+INC_543,Road accident / vehicle crash,N/A,no-fire (0.89),N/A,N/A,High
+INC_544,Unknown incident,N/A,no-fire (0.86),N/A,N/A,High
+INC_545,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_546,Building fire / trapped persons,N/A,no-fire (0.87),N/A,N/A,High
+INC_547,Unknown incident,N/A,no-fire (0.93),N/A,N/A,High
+INC_548,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_549,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_550,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_551,Road accident / vehicle crash,N/A,no-fire (0.82),N/A,N/A,High
+INC_552,Unknown incident,N/A,no-fire (0.87),N/A,N/A,High
+INC_553,Missing person report,N/A,no-fire (0.92),N/A,N/A,High
+INC_554,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_555,Physical assault / fight,N/A,no-fire (0.9),N/A,N/A,High
+INC_556,Unknown incident,N/A,no-fire (0.93),N/A,N/A,High
+INC_557,Road accident / vehicle crash,N/A,no-fire (0.87),N/A,N/A,High
+INC_558,Physical assault / fight,N/A,no-fire (0.9),N/A,N/A,High
+INC_559,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_560,Road accident / vehicle crash,N/A,no-fire (0.9),N/A,N/A,High
+INC_561,Medical emergency,N/A,no-fire (0.91),N/A,N/A,High
+INC_562,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_563,Building fire / trapped persons,N/A,no-fire (0.86),N/A,N/A,High
+INC_564,Building fire / trapped persons,N/A,no-fire (0.9),N/A,N/A,High
+INC_565,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_566,Missing person report,N/A,no-fire (0.88),N/A,N/A,High
+INC_567,Unknown incident,N/A,no-fire (0.87),N/A,N/A,High
+INC_568,Physical assault / fight,N/A,no-fire (0.89),N/A,N/A,High
+INC_569,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_570,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_571,Physical assault / fight,N/A,no-fire (0.86),N/A,N/A,High
+INC_572,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_573,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_574,Unknown incident,N/A,no-fire (0.84),N/A,N/A,High
+INC_575,Unknown incident,N/A,no-fire (0.87),N/A,N/A,High
+INC_576,Building fire / trapped persons,N/A,no-fire (0.9),N/A,N/A,High
+INC_577,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_578,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_579,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_580,Medical emergency,N/A,no-fire (0.88),N/A,N/A,High
+INC_581,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_582,Unknown incident,N/A,no-fire (0.85),N/A,N/A,High
+INC_583,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_584,Unknown incident,N/A,no-fire (0.83),N/A,N/A,High
+INC_585,Building fire / trapped persons,N/A,no-fire (0.86),N/A,N/A,High
+INC_586,Building fire / trapped persons,N/A,no-fire (0.88),N/A,N/A,High
+INC_587,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_588,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_589,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_590,Road accident / vehicle crash,N/A,no-fire (0.89),N/A,N/A,High
+INC_591,Unknown incident,N/A,no-fire (0.94),N/A,N/A,High
+INC_592,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_593,Suspicious activity,N/A,no-fire (0.88),N/A,N/A,High
+INC_594,Physical assault / fight,N/A,no-fire (0.82),N/A,N/A,High
+INC_595,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_596,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_597,Road accident / vehicle crash,N/A,no-fire (0.85),N/A,N/A,High
+INC_598,Unknown incident,N/A,no-fire (0.86),N/A,N/A,High
+INC_599,Physical assault / fight,N/A,no-fire (0.88),N/A,N/A,High
+INC_600,Physical assault / fight,N/A,no-fire (0.88),N/A,N/A,High
+INC_601,Unknown incident,N/A,no-fire (0.87),N/A,N/A,High
+INC_602,Unknown incident,N/A,no-fire (0.87),N/A,N/A,High
+INC_603,Unknown incident,N/A,no-fire (0.86),N/A,N/A,High
+INC_604,Robbery / theft in progress,N/A,no-fire (0.87),N/A,N/A,High
+INC_605,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_606,Road accident / vehicle crash,N/A,no-fire (0.86),N/A,N/A,High
+INC_607,Physical assault / fight,N/A,no-fire (0.9),N/A,N/A,High
+INC_608,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_609,Unknown incident,N/A,no-fire (0.85),N/A,N/A,High
+INC_610,Physical assault / fight,N/A,no-fire (0.89),N/A,N/A,High
+INC_611,Missing person report,N/A,no-fire (0.89),N/A,N/A,High
+INC_612,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_613,Building fire / trapped persons,N/A,no-fire (0.91),N/A,N/A,High
+INC_614,Building fire / trapped persons,N/A,no-fire (0.9),N/A,N/A,High
+INC_615,Unknown incident,N/A,no-fire (0.87),N/A,N/A,High
+INC_616,Unknown incident,N/A,no-fire (0.85),N/A,N/A,High
+INC_617,Physical assault / fight,N/A,no-fire (0.93),N/A,N/A,High
+INC_618,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_619,Unknown incident,N/A,no-fire (0.82),N/A,N/A,High
+INC_620,Unknown incident,N/A,no-fire (0.74),N/A,N/A,High
+INC_621,Road accident / vehicle crash,N/A,no-fire (0.83),N/A,N/A,High
+INC_622,Building fire / trapped persons,N/A,no-fire (0.84),N/A,N/A,High
+INC_623,Unknown incident,N/A,smoke (0.91),N/A,N/A,Low
+INC_624,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_625,Unknown incident,N/A,no-fire (0.85),N/A,N/A,High
+INC_626,Unknown incident,N/A,no-fire (0.62),N/A,N/A,High
+INC_627,Unknown incident,N/A,no-fire (0.84),N/A,N/A,High
+INC_628,Unknown incident,N/A,no-fire (0.82),N/A,N/A,High
+INC_629,Unknown incident,N/A,no-fire (0.85),N/A,N/A,High
+INC_630,Road accident / vehicle crash,N/A,no-fire (0.83),N/A,N/A,High
+INC_631,Unknown incident,N/A,no-fire (0.84),N/A,N/A,High
+INC_632,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_633,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_634,Unknown incident,N/A,no-fire (0.79),N/A,N/A,High
+INC_635,Unknown incident,N/A,no-fire (0.82),N/A,N/A,High
+INC_636,Unknown incident,N/A,no-fire (0.85),N/A,N/A,High
+INC_637,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_638,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_639,Building fire / trapped persons,N/A,no-fire (0.88),N/A,N/A,High
+INC_640,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_641,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_642,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_643,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_644,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_645,Road accident / vehicle crash,N/A,no-fire (0.88),N/A,N/A,High
+INC_646,Unknown incident,N/A,no-fire (0.83),N/A,N/A,High
+INC_647,Public disturbance / riot,N/A,no-fire (0.91),N/A,N/A,High
+INC_648,Unknown incident,N/A,no-fire (0.86),N/A,N/A,High
+INC_649,Unknown incident,N/A,no-fire (0.84),N/A,N/A,High
+INC_650,Missing person report,N/A,no-fire (0.85),N/A,N/A,High
+INC_651,Unknown incident,N/A,no-fire (0.85),N/A,N/A,High
+INC_652,Physical assault / fight,N/A,no-fire (0.91),N/A,N/A,High
+INC_653,Road accident / vehicle crash,N/A,no-fire (0.83),N/A,N/A,High
+INC_654,Physical assault / fight,N/A,no-fire (0.89),N/A,N/A,High
+INC_655,Unknown incident,N/A,no-fire (0.95),N/A,N/A,High
+INC_656,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_657,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_658,Unknown incident,N/A,no-fire (0.84),N/A,N/A,High
+INC_659,Road accident / vehicle crash,N/A,no-fire (0.89),N/A,N/A,High
+INC_660,Missing person report,N/A,no-fire (0.89),N/A,N/A,High
+INC_661,Medical emergency,N/A,light (0.82),N/A,N/A,Low
+INC_662,Physical assault / fight,N/A,no-fire (0.92),N/A,N/A,High
+INC_663,Physical assault / fight,N/A,no-fire (0.9),N/A,N/A,High
+INC_664,Robbery / theft in progress,N/A,no-fire (0.9),N/A,N/A,High
+INC_665,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_666,Physical assault / fight,N/A,no-fire (0.86),N/A,N/A,High
+INC_667,Unknown incident,N/A,no-fire (0.86),N/A,N/A,High
+INC_668,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_669,Unknown incident,N/A,no-fire (0.86),N/A,N/A,High
+INC_670,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_671,Missing person report,N/A,no-fire (0.92),N/A,N/A,High
+INC_672,Physical assault / fight,N/A,no-fire (0.92),N/A,N/A,High
+INC_673,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_674,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_675,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_676,Physical assault / fight,N/A,no-fire (0.91),N/A,N/A,High
+INC_677,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_678,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_679,Missing person report,N/A,no-fire (0.89),N/A,N/A,High
+INC_680,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_681,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_682,Unknown incident,N/A,no-fire (0.92),N/A,N/A,High
+INC_683,Robbery / theft in progress,N/A,no-fire (0.93),N/A,N/A,High
+INC_684,Unknown incident,N/A,no-fire (0.89),N/A,N/A,High
+INC_685,Physical assault / fight,N/A,no-fire (0.91),N/A,N/A,High
+INC_686,Road accident / vehicle crash,N/A,no-fire (0.91),N/A,N/A,High
+INC_687,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_688,Building fire / trapped persons,N/A,no-fire (0.93),N/A,N/A,High
+INC_689,Unknown incident,N/A,no-fire (0.88),N/A,N/A,High
+INC_690,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_691,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_692,Unknown incident,N/A,no-fire (0.91),N/A,N/A,High
+INC_693,Unknown incident,N/A,smoke (0.88),N/A,N/A,Low
+INC_694,Medical emergency,N/A,no-fire (0.94),N/A,N/A,High
+INC_695,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
+INC_696,Unknown incident,N/A,no-fire (0.86),N/A,N/A,High
+INC_697,Unknown incident,N/A,no-fire (0.93),N/A,N/A,High
+INC_698,Physical assault / fight,N/A,no-fire (0.92),N/A,N/A,High
+INC_699,Unknown incident,N/A,smoke (0.84),N/A,N/A,Low
+INC_700,Unknown incident,N/A,no-fire (0.87),N/A,N/A,High
+INC_701,Road accident / vehicle crash,N/A,no-fire (0.9),N/A,N/A,High
+INC_702,Unknown incident,N/A,no-fire (0.87),N/A,N/A,High
+INC_703,Unknown incident,N/A,no-fire (0.9),N/A,N/A,High
