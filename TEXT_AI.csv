@@ -1,0 +1,115 @@
+Text_ID,Crime_Type,Location_Entity,Sentiment,Topic,Severity_Label
+TXT_001,Assault,Rocky Mount,Negative,Public Disturbance,High
+TXT_002,Unknown,Chicago,Negative,Public Disturbance,Low
+TXT_003,Assault,Unknown,Negative,Public Disturbance,Low
+TXT_004,Murder,London,Negative,Murder / Homicide,High
+TXT_005,Unknown,crimes\u2019 http://t.co/SLuXLgbQbU,Negative,Public Disturbance,Low
+TXT_006,Robbery,Buffalo,Negative,Theft / Robbery,Medium
+TXT_007,Unknown,Pakistan,Negative,Public Disturbance,Low
+TXT_008,Unknown,NRA,Negative,Public Disturbance,Low
+TXT_009,Drug Offense,Baltimore,Negative,Drug Related,Medium
+TXT_010,Unknown,England,Negative,Public Disturbance,Low
+TXT_011,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_012,Unknown,Cornwall,Negative,Public Disturbance,Low
+TXT_013,Unknown,Washington,Negative,Public Disturbance,Low
+TXT_014,Disturbance,North Yorkshire,Negative,Public Disturbance,Medium
+TXT_015,Unknown,Delhi,Negative,Public Disturbance,Low
+TXT_016,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_017,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_018,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_019,Disturbance,Unknown,Negative,Public Disturbance,Low
+TXT_020,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_021,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_022,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_023,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_024,Unknown,Unknown,Negative,Other Crime,Low
+TXT_025,Unknown,Asia,Negative,Theft / Robbery,Low
+TXT_026,Unknown,Mumbai,Negative,Public Disturbance,Low
+TXT_027,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_028,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_029,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_030,Fire / Arson,Unknown,Negative,Public Disturbance,High
+TXT_031,Unknown,South Africa,Negative,Other Crime,Low
+TXT_032,Unknown,kidnappers\u2019,Negative,Public Disturbance,High
+TXT_033,Assault,Unknown,Negative,Public Disturbance,High
+TXT_034,Unknown,Unknown,Negative,Missing Person,Low
+TXT_035,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_036,Unknown,Petaluma,Negative,Public Disturbance,Low
+TXT_037,Unknown,Bay Area,Negative,Public Disturbance,Low
+TXT_038,Disturbance,Detroit,Negative,Public Disturbance,Medium
+TXT_039,Murder,Unknown,Negative,Murder / Homicide,High
+TXT_040,Unknown,St. Louis County,Negative,Public Disturbance,Low
+TXT_041,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_042,Unknown,Afghanistan,Negative,Public Disturbance,Low
+TXT_043,Unknown,India,Negative,Vandalism / Property Damage,Low
+TXT_044,Assault,Pontchartrain Park,Negative,Public Disturbance,High
+TXT_045,Unknown,Unknown,Negative,Vandalism / Property Damage,Low
+TXT_046,Unknown,Delhi,Negative,Public Disturbance,Low
+TXT_047,Fire / Arson,Unknown,Negative,Murder / Homicide,High
+TXT_048,Unknown,Petaluma,Negative,Public Disturbance,Low
+TXT_049,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_050,Assault,Petaluma,Positive,Public Disturbance,Low
+TXT_051,Assault,Pontchartrain Park http://t.co/ikLjlj9V6V,Negative,Public Disturbance,High
+TXT_052,Unknown,Detroit,Negative,Public Disturbance,Low
+TXT_053,Unknown,Florida,Negative,Other Crime,Low
+TXT_054,Unknown,Toledo,Negative,Public Disturbance,Low
+TXT_055,Unknown,Toledo,Negative,Public Disturbance,Low
+TXT_056,Unknown,Lincolnshire,Negative,Public Disturbance,High
+TXT_057,Unknown,Petaluma,Negative,Public Disturbance,Low
+TXT_058,Disturbance,California,Negative,Other Crime,Medium
+TXT_059,Disturbance,California,Negative,Other Crime,Medium
+TXT_060,Unknown,Toledo,Negative,Public Disturbance,Low
+TXT_061,Unknown,Toledo,Negative,Public Disturbance,Low
+TXT_062,Disturbance,Unknown,Negative,Public Disturbance,Medium
+TXT_063,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_064,Robbery,Unknown,Negative,Murder / Homicide,High
+TXT_065,Unknown,California,Negative,Other Crime,Low
+TXT_066,Assault,Pontchartrain Park,Negative,Public Disturbance,High
+TXT_067,Assault,Pontchartrain Park,Negative,Public Disturbance,High
+TXT_068,Assault,Pontchartrain Park,Negative,Public Disturbance,High
+TXT_069,Assault,Hopkinsville,Negative,Public Disturbance,High
+TXT_070,Unknown,Simi Valley's,Negative,Road Accident / Vehicle Incident,Low
+TXT_071,Assault,Pontchartrain Park,Negative,Murder / Homicide,High
+TXT_072,Unknown,Mumbai,Negative,Other Crime,Low
+TXT_073,Drug Offense,Unknown,Negative,Drug Related,Low
+TXT_074,Unknown,Hopkinsville,Negative,Public Disturbance,Low
+TXT_075,Assault,Pontchartrain Park http://t.co/BzP5fIOhAo,Negative,Public Disturbance,High
+TXT_076,Drug Offense,Springfield,Negative,Drug Related,Medium
+TXT_077,Drug Offense,Springfield,Negative,Drug Related,Medium
+TXT_078,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_079,Unknown,West Yorkshire\u2019s,Negative,Public Disturbance,Low
+TXT_080,Unknown,"\""San Francisco",Negative,Public Disturbance,Low
+TXT_081,Unknown,Unknown,Negative,Other Crime,Low
+TXT_082,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_083,Drug Offense,Unknown,Negative,Drug Related,Low
+TXT_084,Drug Offense,Unknown,Negative,Drug Related,Low
+TXT_085,Drug Offense,Unknown,Negative,Drug Related,Low
+TXT_086,Robbery,Nairobi,Negative,Drug Related,Low
+TXT_087,Drug Offense,Unknown,Negative,Drug Related,Low
+TXT_088,Drug Offense,Unknown,Negative,Drug Related,Low
+TXT_089,Drug Offense,Bangkok,Negative,Drug Related,Low
+TXT_090,Unknown,Ridgeland,Negative,Public Disturbance,Low
+TXT_091,Unknown,India,Negative,Public Disturbance,Low
+TXT_092,Unknown,Denver,Negative,Missing Person,Low
+TXT_093,Accident,Australia,Negative,Public Disturbance,Low
+TXT_094,Unknown,UK,Negative,Road Accident / Vehicle Incident,Low
+TXT_095,Unknown,Unknown,Negative,Other Crime,Low
+TXT_096,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_097,Drug Offense,Unknown,Negative,Drug Related,Low
+TXT_098,Unknown,Alabama,Positive,Public Disturbance,Medium
+TXT_099,Vandalism,UK,Negative,Public Disturbance,Low
+TXT_100,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_101,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_102,Robbery,Delhi,Negative,Public Disturbance,Low
+TXT_103,Murder,United Kingdom,Negative,Murder / Homicide,High
+TXT_104,Fire / Arson,Unknown,Negative,Fire / Arson,High
+TXT_105,Unknown,Unknown,Negative,Public Disturbance,Low
+TXT_106,Fire / Arson,Unknown,Negative,Fire / Arson,High
+TXT_107,Unknown,Unknown,Negative,Other Crime,Low
+TXT_108,Unknown,Delhi,Negative,Public Disturbance,Low
+TXT_109,Unknown,Washington,Negative,Public Disturbance,Low
+TXT_110,Unknown,Unknown,Negative,Road Accident / Vehicle Incident,Low
+TXT_111,Unknown,Washington,Negative,Public Disturbance,Low
+TXT_112,Unknown,Flint,Negative,Public Disturbance,Low
+TXT_113,Drug Offense,Unknown,Negative,Other Crime,Low
+TXT_114,Unknown,Unknown,Negative,Public Disturbance,Low

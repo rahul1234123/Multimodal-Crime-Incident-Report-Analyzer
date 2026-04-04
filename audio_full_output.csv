@@ -1,0 +1,704 @@
+Call_ID,Transcript,Extracted_Event,Keywords,Location,Sentiment,Urgency_Score
+C001,one ah,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.51
+C002,This is the Blocopia Bank in 1302 with the Transnational Speedway call of art. O...,Robbery / theft in progress,Incident: Unknown incident,Blocopia Bank,Distressed,0.51
+C003,Yeah? Yeah. Yeah. Yeah. Yeah. Yeah.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.51
+C004,"Yes, we're at the Nelson building and there's some men here with the bus to clea...",Unknown incident,Incident: Unknown incident | Names: Nelson,Nelson Building,Calm,0.59
+C005,"Listen, we're playing really bad at this. Okay, so get on our track, mate. Peopl...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.67
+C006,Do you know why you got so many people coming up to zobindebs?,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.64
+C007,I'm locking in the field and I'm looking for a champ. You're walking in the fiel...,Missing person report,Incident: Unknown incident,Unknown,Distressed,0.58
+C008,"Tout le monde ast Denton再見, 광 making !",Unknown incident,Incident: Unknown incident | Names: Denton再見,Unknown,Calm,0.63
+C009,believed it.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.6
+C010,"Okay, it's out! We'll grab an四 to 되게 Fastenyelling and hold it up. Okay.",Public disturbance / riot,Incident: Unknown incident,Unknown,Calm,0.62
+C011,"Yes, that's two sub-pro here that's the 8 on the ground. Okay, he did get it.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.55
+C012,"I mean, I'll wait behind the... ...and the fighters won't turn off.",Physical assault / fight,Incident: Physical assault / fight,Unknown,Calm,0.52
+C013,I'm here at the police station. I'm going to hold. Okay.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C014,"Yes, ma'am, I need to go out and leave quickly. Down the church. Change.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.82
+C015,"Ma'am, my cat is a person. I had to go find it.",Missing person report,Incident: Unknown incident,Unknown,Distressed,0.66
+C016,"Hello? Hello? Hello? Hello? Oh, that one was...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.52
+C017,AMK470949 screw cool depression,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.51
+C018,I need somebody escorted out of my store right away. He's causing problems.,Robbery / theft in progress,Incident: Unknown incident,My Store,Distressed,0.9
+C019,Hello! Hello! Hello 911!,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.71
+C020,"I got three people, the second people, thank you. They're taking kids? Yes sir.",Missing person report,Incident: Unknown incident,Unknown,Calm,0.58
+C021,"Hey, um, they just woke into my house. They had guns. They told us to just be on...",Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.61
+C022,"Um, I took some pills and um, the pills were really good mad, and um...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C023,"All right, well, I was just flying with my buddy. You were sliding? I was just f...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.51
+C024,"If somebody stays with Diane, I'm home alone and he's not here. My daughter is h...",Unknown incident,Incident: Unknown incident | Names: Diane,Unknown,Distressed,0.68
+C025,"I don't have an emergency tube for this stuff, it just left my house just now.",Unknown incident,"Incident: Unknown incident | Urgency phrases: emergency, now",My House,Distressed,0.23
+C026,My house is on fire. I don't know how to sleep in and I'll go to someone doom an...,Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: now,My House,Distressed,0.81
+C027,"Hi, my name is Maria. I'm calling because my teacher, Mr. Haines,",Unknown incident,"Incident: Unknown incident | Names: Maria, Haines",Unknown,Calm,0.64
+C028,"Yes, I have a gun and I don't it's from LA car loaded and something just got sho...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Locations: LA,LA,Distressed,0.65
+C029,"I have a friend who's been drinking, I've been trying to help him since him too....",Unknown incident,"Incident: Unknown incident | Urgency phrases: help, now",Unknown,Distressed,0.61
+C030,"I'm a police at where the heck am I? 291 water counts, three to immediately. We ...",Unknown incident,Incident: Unknown incident | Urgency phrases: immediately,Unknown,Distressed,0.64
+C031,I'm not sure my friend is called and basically told me she was going to kill her...,Robbery / theft in progress,Incident: Unknown incident,Unknown,Distressed,0.61
+C032,"with the address, 750 south to 50 west.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C033,"emergency. Fire. Cutting wood. So, what's the location?",Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: emergency,Unknown,Distressed,0.86
+C034,"It's not my, I mean, I haven't made it, I haven't possible, I haven't won overdo...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.36
+C035,I ain't gonna like your race a piece Ma'am prove to this for me,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.67
+C036,"Yeah man, I'm a bit late today and we're in the road. We're going to see the gas...",Road accident / vehicle crash,Incident: Unknown incident,Unknown,Calm,0.56
+C037,Nevada more general,Unknown incident,Incident: Unknown incident | Locations: Nevada,Nevada,Calm,0.31
+C038,"Now, I won't let you know that I'm sleepy. But I heard my doorbell ringing out.",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.53
+C039,"Please come down here. What's your, what? I don't know that address. You're gonn...",Unknown incident,"Incident: Unknown incident | Urgency phrases: now, please",Unknown,Distressed,0.61
+C040,"What was your weekend of a playboy end down a month in park? A plane going down,...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C041,"Oh, somebody is coming. Somebody help. What's going on?",Unknown incident,Incident: Unknown incident | Urgency phrases: help,Unknown,Distressed,0.66
+C042,Somebody was trying to rob us. She got tight right now. We're holding her down. ...,Robbery / theft in progress,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.69
+C043,"Hello? Hello, I'm floating down the river in my car. Okay, what river are you on...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.58
+C044,"Yes, I need an ambulance on hard stones. Okay, we're in the airport.",Medical emergency,Incident: Medical emergency,Unknown,Distressed,0.68
+C045,"with that little boy missing. Have you had any reports on one? No, I'm sure have...",Missing person report,Incident: Missing person report,Unknown,Distressed,0.56
+C046,"We need police. Let's find a bike by 5.23. Let's find on them, man.",Missing person report,Incident: Unknown incident,Unknown,Distressed,0.64
+C047,man please help me I'm a county road 900 to 600 will build the TV towers and,Road accident / vehicle crash,"Incident: Unknown incident | Urgency phrases: help, please",County Road,Calm,0.86
+C048,"I'm working to please my, I'm with you right here at America. I don't need large...",Unknown incident,Incident: Unknown incident | Locations: America | Urgency phrases: please,America,Calm,0.43
+C049,I'm not a prospect but I need to have somebody go to my brother's house.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.5
+C050,"one one. Hey, my friend is having a feature. Where are you at?",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.63
+C051,"Hello? Yes. We've just been robbed. Where? 220,000.",Robbery / theft in progress,Incident: Unknown incident,Unknown,Distressed,0.66
+C052,"High Springs Community School, I called 911 a few minutes ago. We have, I heard ...",Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.68
+C053,"Yeah, I need an ambulance to 12 mark in South Reno. Okay, let's go on. Others.",Medical emergency,Incident: Medical emergency | Locations: South Reno,South Reno,Distressed,0.73
+C054,And we made a stain that was some clothes we used for the laundry address and sp...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C055,4980. I'm talking to my daughter right now. 4980. I'm talking to my daughter. Li...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.62
+C056,It's been a demolishing of a house and there is a woman inside and we need someo...,Unknown incident,Incident: Unknown incident,A House,Distressed,0.85
+C057,"to help you. Hi, this is Latisha from store Big Five on Green Valley. I have a p...",Robbery / theft in progress,Incident: Unknown incident | Locations: Green Valley | Names: Latisha | Urgency phrases: help,Green Valley,Distressed,0.67
+C058,"Yes, ma'am, my neighbor just ran over so someone tried to kill her in her house....",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.69
+C059,"901. My bad idea is that since it's really emotionally abusing me,",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C060,"Yeah, I've got kind of like a knife. My father don't leave a little bit of air. ...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.62
+C061,My husband is up in the attic and he's not responding.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.63
+C062,"I need to report a murder. Okay, where is that? 157 red-",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.78
+C063,"Yeah, it's very much right there in the back. I just think I just found out wher...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.59
+C064,I'm Joan Pearson and I just killed two people.,Unknown incident,Incident: Unknown incident | Names: Joan Pearson,Unknown,Distressed,0.61
+C065,"Hey, I told you some rally. We've got a medical aburge that 4500",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C066,I just got back from work. From Target. I'm at 330.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.51
+C067,"Yes, we need an ambulance. We're at Westport Shopping Center right outside.",Medical emergency,Incident: Medical emergency | Locations: Westport Shopping Center,Westport Shopping Center,Distressed,0.84
+C068,"No, no, no! No, no! No, no!",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.71
+C069,"Yes, excuse me, so some helicopter is came down. The helicopter came down.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C070,"Yes, helicopter just crashed. A helicopter just crashed? Yes, sir. I think we're...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.61
+C071,"Good enough, Avenue. Someone is running around the neighborhood shooting a gun. ...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Locations: Avenue,Avenue,Calm,0.44
+C072,"Hey, who's it? Sheriff's office can I help you? Yeah, who's this, Gendy? Who's i...",Unknown incident,"Incident: Unknown incident | Names: Sheriff, Gendy | Urgency phrases: help",Unknown,Distressed,0.57
+C073,of your emergency. A month has spoken to my house and my time is taking. Please ...,Unknown incident,"Incident: Unknown incident | Urgency phrases: emergency, hurry, please",My House,Distressed,0.85
+C074,"Do I need any of them to please after or won't? Okay, you need a police officer?...",Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Distressed,0.51
+C075,"Oh my God, I'm on third Avenue to wherever I'll track somebody just tried to jum...",Unknown incident,Incident: Unknown incident | Locations: third Avenue,third Avenue,Distressed,0.9
+C076,"I hopped, there's a sitting on arm, yeah, like we're sitting. Sitting with, sitt...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.54
+C077,My main purpose is did lawyers hear to bail?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.69
+C078,I have just smothered my way.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C079,"We're on the boat right now. My friend says, got it by the shark. We have to mak...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.67
+C080,"Yes, I got I just shot someone in my business on that 59 31",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.64
+C081,"We got some shootings over here in Silbeach. Okay, where? The salon in the Marit...",Physical assault / fight,"Incident: Physical assault / fight | Locations: Silbeach, Maritala",Silbeach,Distressed,0.65
+C082,"I just killed someone, a hundred, about 40.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C083,"Okay, yes, Emily, Katie, and the traffic search. She's in the city of La Clacett...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Names: Katie,Unknown,Calm,0.64
+C084,"I got a report of shooting. Okay, where? Lehigh Hansen for Minette.",Physical assault / fight,Incident: Physical assault / fight | Names: Lehigh Hansen,Unknown,Distressed,0.6
+C085,"We need the police here. Okay, what's the address of the emergency? The other.",Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.68
+C086,"Okay, we've got a fire down here at the Route 7 right here at Abington.",Building fire / trapped persons,"Incident: Building fire / trapped persons | Locations: Route 7, Abington",Route 7,Distressed,0.74
+C087,I want to tell you what's happening first. I just killed my wife. There's no whe...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.68
+C088,"What do we say? What happened? I'm sorry, I'm sorry. I'm sorry.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C089,We have been shot at a house in South Mim2. We have three children and we leave ...,Missing person report,Incident: Physical assault / fight | Locations: South Mim2 | Urgency phrases: now,South Mim2,Distressed,0.7
+C090,"Yes, I am... I come to Fitzgera concert...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.59
+C091,"I'm behind the Noseville for Vata, license plate, CEG 8148, and we've been all o...",Road accident / vehicle crash,Incident: Unknown incident,Unknown,Distressed,0.58
+C092,4202 Mallor circle. Two men have just crossed my fence to try.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C093,What city are you in?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C094,I am going eastbound on I-10 between LA-30 and LA-44.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C095,"Yes, we need officer right now. There's a man shooting at the lady. We need a co...",Physical assault / fight,Incident: Physical assault / fight | Urgency phrases: now,Unknown,Calm,0.87
+C096,"Yes, my G pin hairs are getting lapped. Boss!",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C097,your meditation. I am a little boy having a new name. Let me get a gun nest. Don...,Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.47
+C098,"Okay, I call before and I already pay in back. All right, so aren't we going to....",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.41
+C099,"Yeah, I'm putting myself in for my husband, the number.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.62
+C100,"I'm someone's breaking into my house. Wish I'd grab. Sophie, six, seven, eight, ...",Robbery / theft in progress,Incident: Unknown incident,Unknown,Distressed,0.6
+C101,"I know. I'm sorry, Gordon. I know when she shot me with... I can go.",Unknown incident,Incident: Physical assault / fight | Names: Gordon | Urgency phrases: now,Unknown,Distressed,0.42
+C102,"Yes, sir. I've got this middle school. We have a student with a dunking up help ...",Unknown incident,"Incident: Unknown incident | Locations: B.I.C. | Urgency phrases: help, please",B.I.C.,Calm,0.67
+C103,I'm not sure if I'm going to get by train. Why was you hit by a train? My friend...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.67
+C104,an ambulance to the south side Walmart immediately. What's going on? I have a ma...,Medical emergency,Incident: Physical assault / fight | Urgency phrases: immediately,Unknown,Distressed,0.91
+C105,You should... You should see...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.6
+C106,"I'm hoping. I'll leave in the lab, I think someone is trying to come in.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C107,"I need a nice grey billed place, I don't care who's 15612.",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.75
+C108,"I don't know but you have 4,000",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.57
+C109,We have a I think we have a dead person in here. Okay. I don't know what happene...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.64
+C110,"I'm almost in Wonder Rock, the US bank, and I just need to be sure to tell mysel...",Robbery / theft in progress,"Incident: Unknown incident | Locations: Wonder Rock, US",Wonder Rock,Calm,0.63
+C111,What are you? The emergency hotline. Who are you?,Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.81
+C112,It's a business. I believe it's been robbed. What's the name of the business? Fl...,Robbery / theft in progress,Incident: Unknown incident,Unknown,Distressed,0.62
+C113,"and what is your emergency? Hi, my name is Mickey. I'm the manager at the McDona...",Unknown incident,Incident: Unknown incident | Names: Mickey | Urgency phrases: emergency,Unknown,Calm,0.58
+C114,I think we're on 75. I 75? Yes. Okay.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.47
+C115,Something is going on. Do you know the south number?,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.69
+C116,"I keep blow-drow. We have blitz. Okay, I'm sorry you have blitz.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.5
+C117,Are you out of the house yet? No. Or I get out of the house. We can't.,Unknown incident,Incident: Unknown incident,The House,Distressed,0.51
+C118,emergency. My focus is on that please come. We're going to say the address is no...,Unknown incident,"Incident: Unknown incident | Urgency phrases: emergency, please",Unknown,Distressed,0.94
+C119,"Oh, darling, he's ill. Who is this? I told my father right to help.",Unknown incident,Incident: Unknown incident | Urgency phrases: help,Unknown,Distressed,0.73
+C120,.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.54
+C121,"Um, we have somebody. Sorry.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C122,I think somebody is breaking in the house. We just came from school and put our ...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.7
+C123,"Um, I always offers, kind of, my mom's on a floor.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.5
+C124,emergency. I just shot my wife. Can you tell me the address that you're off?,Unknown incident,Incident: Physical assault / fight | Urgency phrases: emergency,Unknown,Distressed,0.95
+C125,I think we need a place at the Walmart Super Center in Miss Kogi. That's what we...,Unknown incident,Incident: Unknown incident | Names: Kogi,Unknown,Distressed,0.66
+C126,"Yeah, I need the Polo here. 963, he's 363. There's somebody in the house with a ...",Unknown incident,Incident: Unknown incident,The House,Distressed,0.67
+C127,corner of 119 and counting road 1 we just saw plane go down to the,Road accident / vehicle crash,Incident: Unknown incident,Counting Road,Distressed,0.61
+C128,"A plane just crashed. Okay, you said three miles south of Union reservoir.",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.63
+C129,"Yes, it is a police station. Yes, it is. May I help you? Yes, okay. I put this a...",Unknown incident,Incident: Unknown incident | Urgency phrases: help,Unknown,Distressed,0.38
+C130,I know there's an ambulance on the TV for this little boy. Okay. And there's a y...,Medical emergency,Incident: Medical emergency | Urgency phrases: now,Unknown,Distressed,0.73
+C131,"Hi, we just witnessed the vehicle accident on the last night.",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.61
+C132,There's a horrible accident on 7 mile fare in highway 94.,Road accident / vehicle crash,Incident: Road accident / vehicle crash,In Highway,Distressed,0.79
+C133,"Hi, there was a accident. We just witnessed three cars just been full motion.",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.68
+C134,I was told to call my dad to tell whatever I had.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C135,"He only found his dad's old proofs best, but I don't know.",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.53
+C136,Open screen! Hello?,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.63
+C137,"There has been a murder suicide. There is no survivors. Please send help. Okay, ...",Unknown incident,"Incident: Unknown incident | Urgency phrases: help, please",Unknown,Distressed,0.79
+C138,यह पलीज वारा हैं वार वार वार वार वार वार वार,Unknown incident,Incident: Unknown incident | Names: वारा हैं वार वार वार वार वार वार वार,Unknown,Distressed,0.59
+C139,"Yeah, I'd like to report it to you, please. Okay. Be the thrills.",Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Calm,0.6
+C140,"I just shot my wife. Okay, and what's your address?",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.6
+C141,Please come out of the cow! Please! It's coming to God! Please come out of the w...,Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Calm,0.92
+C142,A woman came under her house screaming that her son had shot for her husband.,Unknown incident,Incident: Physical assault / fight,Her House,Distressed,0.7
+C143,"Hi, I hear a girlfriend just pulled up and there's a guy pull up and truck behin...",Road accident / vehicle crash,Incident: Unknown incident,Unknown,Distressed,0.67
+C144,"Hi, Edons, Unshots. We're all on the floor. You're doing what? They think Unshot...",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.57
+C145,I'm not talking about this. I'm talking about this. I'm talking about this.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.23
+C146,"Someone with murder, I think. Where are you? No, please, you're gonna let me... ...",Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Distressed,0.79
+C147,It was guys just in my mom and my niece and my sister all the while they've been...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.62
+C148,"I have a gun shop victim here. Okay, I'm going to hurry.",Physical assault / fight,Incident: Unknown incident | Urgency phrases: hurry,Unknown,Distressed,0.77
+C149,I just come in to pick it up my trash and my major is in the house. I've got no....,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.39
+C150,"Ту-ту-персон, что... А-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а... Сер....",Unknown incident,"Incident: Unknown incident | Names: Ту-ту-персон, Сер",Unknown,Distressed,0.62
+C151,You need to see this ran over and they said that the boy just shot his mom. We'v...,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.93
+C152,and I requested a state police to come out. I would like state police,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C153,I had a guy kicking in my door or trying to kick in my front door. I don't know ...,Robbery / theft in progress,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.6
+C154,in 59 to capture races. There's been a shooting. Somebody came in and shot a bun...,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.68
+C155,exit of this game coming from the beach. There's a guy that's completely naked w...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C156,There's a naked man or the men's cars way at the end of the car way coming towar...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.62
+C157,So hi I'm Erie C. I'm Erie C. I'm my great-for-delie.,Unknown incident,"Incident: Unknown incident | Names: Erie C., Erie C.",Unknown,Calm,0.53
+C158,I have a boy that was underwater and he's not breathing. How old is the boy? Fou...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.69
+C159,Are you inside the house? Yes. Are you alone inside the house? Yes.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.57
+C160,someone on the back porch of black man. And what is your address? 3613 lady wood...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C161,"I'm gonna take a look at how I put it. How the power of this kit. Well, we'll pu...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.58
+C162,I'm going to come and stop. Where are you at? I'm at the end.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.62
+C163,What kind of appearance is that? Your wet? What kind of appearance is that? Your...,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.6
+C164,We had several police tire earlier and did a report.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C165,"Oh, right, brother. It's having a great time in the hotel. Okay.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.32
+C166,I just strangled my girlfriend. You just strangled your girlfriend? Yep. What's ...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C167,"Okay, we've had an airboat accident. I'm not sure if they're all injuries. I don...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,Unknown,Distressed,0.64
+C168,"Hey, I see a mead down",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.46
+C169,"by crankwheels, like crankwheels,.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C170,I'm going to go now. I'll be right there. Do you have a hand for them? Yes. Do y...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.57
+C171,"라고 αν sichburstridzer, Ivory Para, sie haben universes buenüre Hudro astronaut i...",Unknown incident,"Incident: Unknown incident | Locations: Craeremos | Names: Ivory Para, Einige, schön gewśćjas",Craeremos,Distressed,0.54
+C172,I was just going to six temple and there was a I was in the parking lot and ther...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.46
+C173,"Yes, somebody just send my baby please get here. They just did what?",Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Distressed,0.82
+C174,"Oh, there's a fucking dead man in the car. Roger for me, young.",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Names: Roger,Unknown,Distressed,0.73
+C175,Can I help you? Somebody who's broken our daughter's trying to break into my bed...,Robbery / theft in progress,Incident: Unknown incident | Urgency phrases: help,Unknown,Distressed,0.68
+C176,"Please, before I get through, I have my shirt in here. The shirt is where, where...",Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Distressed,0.78
+C177,"Please fire. 9-1-1. My hands will be having a harder time. Brooke, we're going t...",Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: please,Unknown,Distressed,0.67
+C178,you. I'll do you off with the shots. With what agency sir?,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.61
+C179,I just killed my mom and my sister. What? I just killed my mom and my sister.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C180,How come because I'm at a port in my side and this is it? What park are you in?,Unknown incident,Incident: Unknown incident,What Park,Distressed,0.59
+C181,"We have two boards, two boards. Do you have lights to service? We have lights to...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.65
+C182,"It's been with gardens and sin as possible to the ladies. It was like, I've neve...",Robbery / theft in progress,Incident: Unknown incident,Unknown,Calm,0.54
+C183,I just committed a father's worst sin. Okay. I just shot my daughter and...,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.65
+C184,"Yes, I have a three year old who's not breathing. To address men. 1 6 0 9 7 Nort...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.7
+C185,I have an emergency. I have three dead people up on top. It's called Hanley flat...,Unknown incident,Incident: Unknown incident | Locations: Wolfhand | Urgency phrases: emergency,Wolfhand,Distressed,0.95
+C186,"Who's finished shooting? Okay, who was shot?",Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.6
+C187,"N5631, Sahel Road.",Road accident / vehicle crash,Incident: Unknown incident | Names: Sahel Road,Unknown,Distressed,0.56
+C188,"Um, I don't know a guy stopped me. I think his wife is strong with his wife. He'...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.55
+C189,We need help my husband to shop my son,Unknown incident,Incident: Unknown incident | Urgency phrases: help,Unknown,Distressed,0.7
+C190,"Place, this is Dale Ford, Passdresser, 217th. I'm called a bugger or in my shop....",Unknown incident,"Incident: Unknown incident | Names: Dale Ford, Passdresser",Unknown,Distressed,0.49
+C191,"Come on in your side, busing up vehicle man. I don't know where you're at, where...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,Unknown,Distressed,0.62
+C192,"have you got any reports of a building exposure? Yes we have, it's going to be J...",Unknown incident,Incident: Unknown incident | Locations: North La | Names: Jerry Maschick,North La,Distressed,0.59
+C193,"I love this in the middle of the night, get to the other, I'm on the Lord, David...",Unknown incident,Incident: Unknown incident | Names: David,Unknown,Calm,0.51
+C194,We just have the explosion at the front of our door. Yes sir. The chemical deliv...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.72
+C195,"Gary Masek-Grab, all the house blew up. Now's the windshield out of my pick-up.",Unknown incident,Incident: Unknown incident | Names: Gary Masek-Grab | Urgency phrases: now,The House,Distressed,0.65
+C196,"Yes. We're in West Texas Casino, Brooklyn замеч Berg and all the rest.",Unknown incident,Incident: Unknown incident | Locations: Brooklyn | Names: Berg,Brooklyn,Calm,0.58
+C197,"Yes, the 1000 exploded. Okay, what's the end like? 1879.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C198,"Oh, dude, the guy with the Josh suit is a new world ball right now. He's a sucke...",Unknown incident,Incident: Unknown incident | Names: Josh | Urgency phrases: now,Unknown,Calm,0.6
+C199,"I'm a name of Hans Walters. I work for a lot of Vegas, much upon a police depart...",Unknown incident,"Incident: Unknown incident | Names: Hans Walters, Vegas",Unknown,Calm,0.53
+C200,Can you please send rescue to I think I'm having,Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Calm,0.76
+C201,I'm out of saw high school. There's a guy with a gun. Where's the chase hole? La...,Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.7
+C202,You need police fire ambulance.,Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.7
+C203,"We have a shooter in the store. Okay, do you know if anybody's injured?",Physical assault / fight,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.78
+C204,Okay. Okay. I need to get your stuff to a safe location.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.74
+C205,emergency. We're out of the town center.,Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.88
+C206,"911. Clackerman's town center, Frederick's of Hollywood, fired in the mouth. Oka...",Building fire / trapped persons,Incident: Building fire / trapped persons | Locations: Hollywood | Names: Frederick,Hollywood,Distressed,0.58
+C207,"Hi, I'm a suicidal teenager at House 503 Nighthawk Drive. I need an ambulance im...",Medical emergency,Incident: Medical emergency | Urgency phrases: immediately,At House,Distressed,0.91
+C208,"500 feet, roll the cop, roll an ambulance, shots fired, a baby's been hit in the...",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.79
+C209,Can you get an ambulance in a cop? Get the over to 59 Alderwood drives. 59 what?...,Medical emergency,"Incident: Medical emergency | Names: Alderwood, Alderwood",Unknown,Distressed,0.71
+C210,"Hi, the gentleman was just talking to me about someone who's broken.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C211,"But, hurry up, this is the bivy. It happened. This is the bivy. He can't snuck i...",Unknown incident,Incident: Unknown incident | Urgency phrases: hurry,Unknown,Calm,0.87
+C212,But we went to the quails unlimited dinner last night and the cylinder might hea...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.58
+C213,Get empty over here. Come under in shot 1220. Call the grab avenue 1220,Unknown incident,Incident: Physical assault / fight,Grab Avenue,Distressed,0.61
+C214,My mom is here. You're over there.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C215,"I'm at 69, 69 East Main. My son just shot his wife.",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.65
+C216,"I don't know. Yes sir, I do push car right now. 504J3. 5041.",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,Unknown,Distressed,0.53
+C217,"Yes, ma'am. Yeah, this is your last seat. Shot fired, same thing.",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.59
+C218,"Yeah, I just attend to kill my mother if I step out there. Okay, where are you a...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.77
+C219,"Yes, we're at a pool and I have a little girl that keeps down and she's not brea...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.73
+C220,"My neighbor's house is burning down at 312 Washington Avenue. We're on our ways,...",Building fire / trapped persons,Incident: Building fire / trapped persons | Locations: Washington Avenue,Washington Avenue,Distressed,0.82
+C221,Fuji guys welcome onto this side to enjoy for this shall we enjoy the toursMinit...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.49
+C222,I'm reporting an airplane crash at a SSO. An airplane crash at SSO?,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.63
+C223,"high, we just, where's the emphasis to airport in our airplane just crashed upon...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.66
+C224,"I'm in the hammer now, I'm going to wait. To wait a little bit. Wait a little bi...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.44
+C225,"Why did I move the fire alarm office? Okay, this is county. It's a matter of...",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.47
+C226,"Yeah, this is emergency. I'm a cab driver this guy. He say...",Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.98
+C227,I'm going to see. Dance away! What happened to me? I don't know. I'm in the way....,Unknown incident,"Incident: Unknown incident | Urgency phrases: now, please",Unknown,Calm,0.55
+C228,Help me help me quick. I'm the only one who can be on the court. I know.,Unknown incident,"Incident: Unknown incident | Urgency phrases: help, now",Unknown,Distressed,0.85
+C229,Can I want a mercy? What are you facing? Hello?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C230,"And there's a fire on the cemetery, a bridge into one of the gates. And on the c...",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.75
+C231,"Yes ma'am, I'm on second avenue in the school and the gentleman said tell them t...",Unknown incident,Incident: Unknown incident,Second Avenue,Calm,0.6
+C232,He's in the house.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.55
+C233,"Yes, our ammunition is help. I'm trapped in the back side of this force bar.",Building fire / trapped persons,"Incident: Building fire / trapped persons | Urgency phrases: help, trapped",Unknown,Distressed,0.7
+C234,I'm watching Mike Donnell's up here. And I order like seven birds.,Suspicious activity,Incident: Unknown incident | Names: Mike Donnell's,Unknown,Calm,0.58
+C235,"Oh my God, so many students at the Sheriff Department. At the Sheriff Department...",Unknown incident,Incident: Unknown incident,So Building,Calm,0.66
+C236,"Yes, I didn't tacked by a man in the woods while I was hunting. Please send the ...",Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Distressed,0.73
+C237,"On the boat, it ends up Radio lighting and electric supply building Radio lighti...",Unknown incident,Incident: Unknown incident,Supply Building,Distressed,0.6
+C238,Yes this is specific. Off to the studio this is sque今回 school. I want to introdu...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.64
+C239,"Now, here seems to be a bad fight next story.",Physical assault / fight,Incident: Physical assault / fight | Urgency phrases: now,Unknown,Distressed,0.57
+C240,"I don't think so now and we all been followed. You need to hurry, we can only...",Suspicious activity,"Incident: Unknown incident | Urgency phrases: hurry, now",Unknown,Distressed,0.79
+C241,"I think some people are shooting. Okay, and SSF. Okay.",Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.59
+C242,I'm about to kill people. You're about to kill people? Yes. I had a deadly weapo...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.63
+C243,I'm sorry. Hello? Hello?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.53
+C244,"The station is on sunset, Larby, please come here. Okay, calm down a little bit,...",Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Distressed,0.49
+C245,"Um, my friend, who's my birthday gift, who I got to know.",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.52
+C246,I'm working for the head. I'm calling my son. I'm just getting asked. What's you...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C247,"Oh, I'm just very upset. And I'm...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C248,But guess what the fox has broke out and the lady come running out of the man fr...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.74
+C249,"Okay, I'm at Wild Cash even. We've had a lot of our keepers.",Robbery / theft in progress,Incident: Robbery / theft in progress,Unknown,Calm,0.5
+C250,This is my goodest five or five each financial. I got the people in my yard and ...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.52
+C251,"I've been called over to my father in law to have, because he got off the phone ...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.77
+C252,There was this time I go and what a road is this? Red arrow going down.,Road accident / vehicle crash,Incident: Unknown incident,A Road,Distressed,0.56
+C253,"My girlfriend is right and I think she's dead. I need someone here now. Okay, sh...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.82
+C254,I'm sorry. Any hoax school. I think there's somebody shooting in here. Sandy hoa...,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.69
+C255,"emergency. Say you look at elementary school, 12 dickies and drugs. Okay, I've g...",Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.81
+C256,I can still draw. It sounds like they're contacting the hallway. I'm a teacher i...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C257,"Yes, my husband's on the front there's a car here within a soul rifle shooting i...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Our House,Distressed,0.75
+C258,"emergency. Oh, please hurry. This is one nine. Wind him court. We",Unknown incident,"Incident: Unknown incident | Urgency phrases: emergency, hurry, please",Unknown,Distressed,0.94
+C259,"by the door. If anybody comes down here I'm shooting. Okay, don't, we don't want...",Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.57
+C260,there. We got a we got a student athlete who was on the court moaning.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C261,"I have a nine week old infant and he just stopped breathing. Damn, I'm a white-u...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.8
+C262,"We believe that there is a schooner. We have heard at least two shots. Okay, wha...",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.63
+C263,Minimum arab ми's Capuchom,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.52
+C264,gunshot went to the chest. Number B.,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.6
+C265,Can you hold for just a second? I just saw somebody running to the Comfort Bank ...,Robbery / theft in progress,Incident: Unknown incident,Comfort Bank,Distressed,0.78
+C266,I'll call it in right through. E. A weapons room. I'll call it right through.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.53
+C267,"the railroad tracks, we've got to train that to D rail the National Fire.",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.8
+C268,"You guys are having a baby, you're supposed to be... You're supposed to be guys ...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C269,He never says yes.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.45
+C270,"I just had a lottery to steal a beer at all. All right, hold on, first share our...",Robbery / theft in progress,Incident: Unknown incident,Unknown,Calm,0.56
+C271,"So there's been a gunshot at the cop theater, movie theater, cop, and what's the...",Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.69
+C272,I'm gonna come in with your name. What is your name?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C273,"the crazy. He's been stabbed really bad. Okay, let's be breathing ma'am.",Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.64
+C274,ond,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.52
+C275,"My daughter is choking on a bouncy ball. Okay, and you're at 25, 25 North 10th S...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.71
+C276,"Well, am I 41 going south and I'm going to do a cross street right now?",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Cross Street,Calm,0.63
+C277,"urgent both of it mama Oh yeah, now that's a moment.",Unknown incident,"Incident: Unknown incident | Urgency phrases: urgent, now",Unknown,Calm,0.93
+C278,ครтеen! where's the fire at!? estas- woanging on a ScoobyDid,Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.72
+C279,payback police chief uh... with having a vehicle pulled across the street in the...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,The Street,Distressed,0.65
+C280,I've been taken out of my house at gunpoint. I'm going to head to the police sta...,Physical assault / fight,Incident: Unknown incident,My House,Distressed,0.63
+C281,And my neighbor just knocked on my door. And I heard this mission. We went down ...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.71
+C282,معه لا أنه نبسوا auss proxy ايضاً فن Jerjen,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C283,on. Land is on the ground. I didn't go and check you. A male is on the ground? Y...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.55
+C284,"Yes, I live at the 9301 South Secretary of State, Harvard A. I got a gentle",Unknown incident,Incident: Unknown incident | Names: Harvard A. I,Unknown,Calm,0.54
+C285,"This is Caliola, the transfer at your Beth Western. I'm a 1-14, someone has been...",Unknown incident,Incident: Physical assault / fight | Names: Beth Western,Unknown,Distressed,0.76
+C286,We're missing a child. Three years old. You're missing a three year old.,Missing person report,Incident: Missing person report,Unknown,Distressed,0.67
+C287,What exactly what happened? My wife's pregnant and she says she made the hospita...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.65
+C288,"I am on half road, I am in water, and it's taken me away. Hey man, we're on the....",Road accident / vehicle crash,Incident: Unknown incident,Unknown,Calm,0.6
+C289,"Okay 134th respect, 29 42 and future with the injury that parents unthinkable.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C290,"My walk up up up a little. Okay, let's go up the bottle with a carrot there. You...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Calm,0.54
+C291,"I got a collar on the line, she's got to be quiet, somebody just broken door hou...",Unknown incident,Incident: Unknown incident | Locations: Lowell Street,Lowell Street,Distressed,0.81
+C292,"I'm having one of my moments in shot. Okay, so it's medical. Is it medical, son?",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.58
+C293,I've got a woman in my bank pointing a rifle at all of us and all of our custome...,Robbery / theft in progress,Incident: Unknown incident | Urgency phrases: now,My Bank,Distressed,0.9
+C294,"We walked contact with two carriers, with the carrier and somebody else.",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.56
+C295,"Where's your emergency? I need an ambulance to let on one colony. Okay, what's g...",Medical emergency,Incident: Medical emergency | Urgency phrases: emergency,Unknown,Distressed,0.73
+C296,We need an ambulance. We're going on. My mom keeps...,Medical emergency,Incident: Medical emergency,Unknown,Distressed,0.81
+C297,"Okay, what the problem on wrong and office? Something's what? You know, somethin...",Robbery / theft in progress,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.56
+C298,Are little boys not breathing? Is he breathing now? No he's not.,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.7
+C299,You did!,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.59
+C300,"Um, my mother fed down. Okay, your mama fell down? Yeah. Okay, where are you at?",Medical emergency,Incident: Unknown incident,Unknown,Distressed,0.59
+C301,"My kids have been in this for three o'clock today, my seven-year-old and my thre...",Missing person report,Incident: Unknown incident,Unknown,Calm,0.59
+C302,I have been missing since 7 o'clock this morning and,Missing person report,Incident: Missing person report,Unknown,Distressed,0.67
+C303,I have someone here that I need to be arrested in my home.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.77
+C304,Hello. Hello. Hello. Hello. Hello. Hello.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.51
+C305,"Hi, I'm speaking to my boyfriend and he was entering his home and I heard loud s...",Public disturbance / riot,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.62
+C306,East rear.,Unknown incident,Incident: Unknown incident | Locations: East,East,Calm,0.52
+C307,"I can't bite my wife, so I'll feed her the bathtub and I think she gets. I'll le...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.49
+C308,We have a bare molley. I am out on the trail. I just wanted to take this time.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.16
+C309,when i should there,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.56
+C310,This is an emergency run hike. I'm going to make my walk or hike in my kitchen i...,Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: emergency,Unknown,Distressed,0.97
+C311,northwest Vegas star. It looks like they have aircraft throwing the canvas with ...,Unknown incident,Incident: Unknown incident | Names: Vegas,Unknown,Distressed,0.61
+C312,2313 what? 2313 cabrits. 2313 cabrits. Yes.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.49
+C313,I'm sorry I've got to admit.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C314,"Yes, well I walked in my car and you're like in your car out of your car. Yes, i...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Calm,0.56
+C315,"You look like you need it, come slow. You just need a towel to come over here.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.33
+C316,"A child who has been left on my doorstep. Okay, what's your address?",Missing person report,Incident: Unknown incident,Unknown,Distressed,0.61
+C317,Okay! No!,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.24
+C318,"Hang on, this is too much traction. So it's a connogeable of R to the 180.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.76
+C319,Exactly what happened. There was two trains just collided outside of our metro l...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.65
+C320,"Yes, ma'am. My name is Special Agent Richard A Smith. That's number zero time.",Unknown incident,Incident: Unknown incident | Names: Richard A,Unknown,Distressed,0.56
+C321,"We'll be in the office, I'll guide you by 9. Please try. We're all bleeding.",Medical emergency,"Incident: Medical emergency | Urgency phrases: bleeding, please",Unknown,Distressed,0.59
+C322,"Hello, it's the state police and the gentleman's girlfriend is having a baby rig...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.68
+C323,I don't know if I'll make it. I'm trying to...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.65
+C324,"My boyfriend is outside, he has been stabbed. Okay. And he's...",Physical assault / fight,Incident: Unknown incident,Unknown,Calm,0.71
+C325,I'm the guy that's in pretty big trouble right now. You're in pretty big trouble...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.63
+C326,"Yes, I think everybody's clicking into my house. Please. Okay, stay on the phone...",Robbery / theft in progress,Incident: Unknown incident | Urgency phrases: please,Unknown,Distressed,0.62
+C327,Ada averages have really designedла stressed around down down down down we can't...,Unknown incident,Incident: Unknown incident | Names: Ada,Unknown,Distressed,0.6
+C328,I think my son's been killed. We're at. We're in the Evergreen...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.72
+C329,The update has already been released. I think he's going to try to kill himself....,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C330,"Well, as said, emergency, you know why on one lane, on one side at the damn draw...",Unknown incident,"Incident: Unknown incident | Urgency phrases: emergency, now",Unknown,Distressed,0.97
+C331,Come on. What? More now! There's nothing to talk about!,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.15
+C332,What are you into doing? The FAA agents that look like you're giving a heart att...,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.57
+C333,"Well, I just got a phone call saying that my friend, she was in the basement apa...",Unknown incident,Incident: Unknown incident,That House,Distressed,0.77
+C334,There's a fire right here off the Broadway. Broadway and poetry.,Building fire / trapped persons,"Incident: Building fire / trapped persons | Locations: Broadway, Broadway",Broadway,Distressed,0.78
+C335,We just came into my sister's house. I'll see you on the floor. Try the girlfrie...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.56
+C336,My girlfriend left last night. We were at the Stevens-Ball and St. Nicholas.,Unknown incident,"Incident: Unknown incident | Locations: the Stevens-Ball, St. Nicholas",the Stevens-Ball,Distressed,0.56
+C337,"My cat, a cat, is a seven-month-old child. And I...",Missing person report,Incident: Unknown incident,Unknown,Calm,0.55
+C338,and my friend was drinking and she woke me up and she's sick and now she's not r...,Medical emergency,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.66
+C339,and it's a fire at somebody else called the stadium. You're on the ground. The a...,Building fire / trapped persons,Incident: Building fire / trapped persons,The Avenue,Calm,0.74
+C340,28 grand we need somebody to move your nads to five years out of house. 28 grand...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.66
+C341,We came from Bader spoiling forest and s title spoken in the hear.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C342,میری دریاد کارتے ہو دریہ میری ریور کی کار کار میری ریورتے ہو دریگا بھائی آجا,Unknown incident,Incident: Unknown incident | Locations: بھائی,بھائی,Distressed,0.6
+C343,Somebody got shot at? Somebody got shot at? Yeah.,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.56
+C344,"Okay, what's the address?",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C345,"emergency. Yeah, this is it from I had a little girl that fell on the ball and",Medical emergency,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.91
+C346,"The bedroom is on fire. I have to go fast. Okay, we're on the way.",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Calm,0.89
+C347,"How you doing? I'd like to report like to a double murder in Cambridge, on it. O...",Unknown incident,Incident: Unknown incident | Locations: Cambridge | Urgency phrases: now,Cambridge,Calm,0.66
+C348,"165 Airborne Road, I've been shot on 1675 Airport Road.",Road accident / vehicle crash,Incident: Physical assault / fight | Locations: Airport Road,Airport Road,Distressed,0.63
+C349,"Скаляков,計 {\幼 fishermen DNX4 </0chuckles,Niedapp 01",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C350,I need some help. What's going on?,Unknown incident,Incident: Unknown incident | Urgency phrases: help,Unknown,Distressed,0.7
+C351,Conjects if there's a fire. Give the fire at what address man?,Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.62
+C352,"Hi, something just exploded at the end of Sayat. Okay, is there any...",Unknown incident,Incident: Unknown incident | Locations: Sayat,Sayat,Distressed,0.68
+C353,I think someone is trying to break into my home. Just stop at 56.,Robbery / theft in progress,Incident: Unknown incident,Unknown,Distressed,0.65
+C354,"Hi, I'm Karen C. My name is Linda. I work with Entertainmentpur, my stylist.",Unknown incident,"Incident: Unknown incident | Names: Karen C., Linda",Unknown,Calm,0.51
+C355,"I'll say what's going on, he said I want to help Brown. He's on Brown, she's in ...",Unknown incident,"Incident: Unknown incident | Names: Brown, Brown | Urgency phrases: help, now",Unknown,Calm,0.68
+C356,I just shot my mother in my... You shot your mother?,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.63
+C357,I just witnessed a shooting on third Avenue in Nickers. Third in Nickers and how...,Physical assault / fight,Incident: Physical assault / fight | Locations: third Avenue,third Avenue,Distressed,0.66
+C358,Oh my God! I'm not so lucky! You're right now! We used to talk about lightning! ...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.7
+C359,We have an aircraft declaring an emergency is going to land on the beach at Veni...,Unknown incident,Incident: Unknown incident | Locations: Venice | Urgency phrases: emergency,Venice,Distressed,0.83
+C360,"No, I think someone's in. David, you hear the front door? I'm hearing no lights,...",Unknown incident,Incident: Unknown incident | Names: David,Unknown,Distressed,0.61
+C361,we heard looked in the garage door was up and i thought the gentleman was backin...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C362,We've been beating. It's the family daughter. I'm bleeding.,Physical assault / fight,Incident: Medical emergency | Urgency phrases: bleeding,Unknown,Distressed,0.6
+C363,I have a gun range officer that got shot in the head. We're at a... Samture's po...,Physical assault / fight,Incident: Physical assault / fight | Names: Samture,Unknown,Distressed,0.67
+C364,"I need 10 minutes right now for you. Okay, let's be a drag.",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.47
+C365,We go up to this lady she laying in the road. I think she would get by a car. Ok...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.6
+C366,I'm going to ruin the way I'm at. But my line looks like this guy robbed and he ...,Robbery / theft in progress,Incident: Physical assault / fight,Unknown,Calm,0.5
+C367,She cut me who cut you there's no no hold on,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.44
+C368,Please have me try to get my house. What are they doing? They tied my fund door ...,Unknown incident,"Incident: Unknown incident | Urgency phrases: now, please",Unknown,Distressed,0.76
+C369,"There's been a shooting, I just shot a man attack. We'll make a stop. OK, sir. I...",Physical assault / fight,Incident: Physical assault / fight,Unknown,Calm,0.77
+C370,"I love me, I just love you more. Are you at a house? For a house?",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C371,"Yes, man, I just shot my doider and shot all my grandkids.",Missing person report,Incident: Physical assault / fight,Unknown,Distressed,0.64
+C372,Because I'm not my way to work on North Sound on Redwood Road.,Road accident / vehicle crash,"Incident: Unknown incident | Locations: North Sound, Redwood Road",North Sound,Distressed,0.62
+C373,"¡Ahhh! ¡Esto es eso! ¡Ay, un buen! ¡Cuál es la emergencia!",Unknown incident,"Incident: Unknown incident | Names: ¡Ahhh, ¡Ay, ¡Cuál",Unknown,Calm,0.79
+C374,I got arrived from 21 to what's he's so cold? My 35 travels.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C375,"And there was a guy and there was a pistol and I was falling fake, but he's like...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C376,"I'll shut my husband and shut me, so we'll shut to me. Okay, hold on for me. Oka...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.55
+C377,"I'm sorry, there's a situation here. We have residents that I think they stole a...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.72
+C378,I'm in a glory in a race where it's where I go away.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.66
+C379,I think it's murder. What makes you think that? Because...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.63
+C380,"Um, I don't know if my husband had eyes rolling back. He's just not breathing.",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.56
+C381,I'm out here right now and I lost my keys in my car. Is there any way that someo...,Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,Unknown,Distressed,0.81
+C382,It's not an emergency. The only way I know how to get in touch with this woman i...,Unknown incident,"Incident: Unknown incident | Urgency phrases: emergency, now",Unknown,Distressed,0.17
+C383,What's going on there? Let's see what's going on there.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.61
+C384,"Now, one, one, where's your emergency?",Unknown incident,"Incident: Unknown incident | Urgency phrases: emergency, now",Unknown,Distressed,0.48
+C385,"Same. I hear you, br-",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.54
+C386,"I'm sorry, but the fireworks bill on. I'm sorry, you cannot call 911 for that.",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.29
+C387,I just received a call a few minutes ago from one of our VPs who states that he'...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C388,If the Digman hit the park at 31st Avenue in Valmont.,Road accident / vehicle crash,"Incident: Road accident / vehicle crash | Locations: 31st Avenue, Valmont | Names: Digman",31st Avenue,Distressed,0.57
+C389,It's a yes. Yes. The boys are here. Just a doubt. Let me have you. Ma'am. Ma'am.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.51
+C390,There has been four gunshots. Close to the second. And it is in the middle.,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.63
+C391,I cut my wife so sweet in the bathtub and I think she's dead. I want you with th...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.73
+C392,"We just found the body of a baby, my grandson.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.66
+C393,I would have brought behind him and his brother along with me and I called down ...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.69
+C394,This is our scouting utility emergency dispatch. We found a human skull. Oh my g...,Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.8
+C395,I need a police to come to my,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.79
+C396,"Yes, no, I want to report a drug overdose.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.65
+C397,"Hello? Hello, my dad and my uncle just got shot. Okay. Oh my god, I don't like t...",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.78
+C398,on the side of the guide. And you can tell my little foot in there now. OK. Can ...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.62
+C399,"My brother, he was playing like with his gun.",Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.53
+C400,My brother is counting. Where are you at? I'm at the...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C401,"My guy, my girlfriend is yesterday. Calm down, sir. Is she still breathing?",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.48
+C402,"We have a gunshot wound accidental in the household. Okay, how old?",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.68
+C403,"Somebody just, somebody just take him in my house. What did he hit her in the he...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.78
+C404,There's a cleaning out of Rockville Road at 9.6.9.,Road accident / vehicle crash,Incident: Unknown incident | Locations: Rockville Road,Rockville Road,Distressed,0.57
+C405,"I don't know what this kid has done, and she's like going into a theater or some...",Missing person report,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.67
+C406,"I got my gun out. There's somebody trying to get in my house. Okay, alright, let...",Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.65
+C407,"emergency. 5-001, there's man, we'll be done. 5-001.",Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.78
+C408,I can't hear you scream and I can't...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C409,"We're having a baby or in Boulder Creek. We need to get the shutter. Okay, what'...",Robbery / theft in progress,Incident: Unknown incident | Locations: Boulder Creek,Boulder Creek,Distressed,0.66
+C410,Where's your emergency? I'll get a fire. Super-agore is following twig. Hold on ...,Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: emergency,Unknown,Distressed,0.74
+C411,"I just came home, the door was busted in and my girlfriend's been shot.",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.75
+C412,"It just crashed into the Hudson River, a US Air.",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Locations: the Hudson River,the Hudson River,Distressed,0.65
+C413,I have the car. He just didn't get him. It was screaming at each other. This is ...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.65
+C414,"I've got a burglar. A burglar. Yes, ma'am. In the burglar.",Robbery / theft in progress,Incident: Robbery / theft in progress,Unknown,Distressed,0.6
+C415,The baby's not playing me on this. It's a damn baby highlands avenue. 12 baby hi...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C416,Can I help you? Certainly. A couple of people who have picked over in the Great ...,Unknown incident,Incident: Unknown incident | Locations: the Great Salt Lake | Urgency phrases: help,the Great Salt Lake,Calm,0.58
+C417,"No, I'm lonely. I'm lonely. Just broken into a house where I'm lonely. Please he...",Unknown incident,"Incident: Unknown incident | Urgency phrases: help, now, please",A House,Distressed,0.77
+C418,My mouth is in the bathroom and in the tea cups.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C419,"I'm coming here to buy something. I've listened to this. When I get there, I'm i...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.55
+C420,"Yeah, I was trying to find out if I knew to bring like any chick stoops or a",Missing person report,Incident: Unknown incident,Unknown,Distressed,0.59
+C421,"I see some activity going on in the car and I don't think it's proper. Okay, wha...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.58
+C422,This is emergency 911 emergency. 340 soil.,Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.99
+C423,You said we dropped your store apart. Someone what? We just dropped your store a...,Unknown incident,Incident: Unknown incident,Your Store,Distressed,0.56
+C424,floor. You'll be on the floor. She'll be on the floor. Okay. I'm going to tell y...,Unknown incident,Incident: Unknown incident | Urgency phrases: help,Unknown,Calm,0.55
+C425,What's the problem? What's the problem there?,Robbery / theft in progress,Incident: Unknown incident,Unknown,Distressed,0.62
+C426,It does crash. What? A plane crashed on 17th and Lincoln in houses.,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.61
+C427,like gunshots being fired. Okay. I don't know where they're coming from. It was ...,Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: now,Unknown,Distressed,0.58
+C428,"My girlfriend, she has a sex boyfriend and she's been talking to hell out of her...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.44
+C429,We just got a cry that somebody had shot somebody in a health diagnosis.,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.79
+C430,"We've missed all the kidnaps in the night. Thank you, thank you. Who is kidnappe...",Missing person report,Incident: Unknown incident,Unknown,Calm,0.6
+C431,"of gentlemen in the center room, and the instrument, you change the room. A bank...",Robbery / theft in progress,Incident: Unknown incident,A Bank,Distressed,0.58
+C432,"If I have been to the same thing, I will be open to the 14th, 2000, definitely a...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.53
+C433,"The man lying on the highway. He's lying down at the edge of the earth, but on h...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.53
+C434,"I want to talk, I want to talk, into my mouth, into my heart, my heart, my heart...",Medical emergency,Incident: Unknown incident,Unknown,Calm,0.67
+C435,I am. My uncle's job is to put a knee snack in his girlfriend's back and I am pi...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C436,I ordered a Pinchy Chicken Leget with a small bite as...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.52
+C437,"Somebody just, somebody just, and I'm gonna send a call to the police. I'm gonna...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.62
+C438,"Help me. Okay, what's up, honey? My son isn't at least. I'm doing crazy.",Unknown incident,Incident: Unknown incident | Urgency phrases: help,Unknown,Distressed,0.71
+C439,He'll let me cop a bean on quickClintus to move through the whole room Even shin...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C440,Brian Chessens at 7-1-Bot-Glorm Circle and he is wrestling us to get in my house...,Unknown incident,Incident: Unknown incident | Names: Brian Chessens,Unknown,Distressed,0.84
+C441,"Yeah, I think it's least like that on my head. Yeah, man. We just got we just ca...",Robbery / theft in progress,Incident: Unknown incident,Unknown,Distressed,0.57
+C442,Somebody walk into our house last night. I don't know.,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Our House,Distressed,0.57
+C443,My ass bloopers is staring at the hell out of me It's stopping in my head and my...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.69
+C444,"My partner's on fire, he can't. Err! Okay, stay on the line with me, don't hang ...",Building fire / trapped persons,Incident: Building fire / trapped persons | Names: Err | Urgency phrases: please,Unknown,Distressed,0.58
+C445,I don't want Marge and Martin to stay. Help! It's a guy's coming! I can take him...,Unknown incident,Incident: Unknown incident | Names: Marge | Urgency phrases: help,Unknown,Calm,0.84
+C446,"I think he had a parachute on him, a guy parachute.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C447,What's the problem there? There's a fire on pregnant. There's a fire at home? Ye...,Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: please,Unknown,Distressed,0.73
+C448,Why would the pan cut me? I need assistance right away. What happened? My wife h...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.91
+C449,I have a concern for a co-worker. She just called me and sounded very...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.67
+C450,"A white female passenger pass out on one of our vehicles, which is 21-22.",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.58
+C451,"Hello, um, he's going down to the black way with my baby. Okay, where are you?",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.67
+C452,I'm going to turn this to the 258 from here. I'm going to turn the 258 from here...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.52
+C453,"I don't know. There's a lady laying out here on the side wall. Okay, bleeding. O...",Medical emergency,"Incident: Medical emergency | Urgency phrases: now, bleeding",Unknown,Distressed,0.61
+C454,"Hi, my name is Jean Thomas. I'm watching my home on live monitor and there's a b...",Robbery / theft in progress,Incident: Unknown incident | Names: Jean Thomas,My House,Distressed,0.64
+C455,"I'm going to start giving him out the lobby for any black. Miss, yes, General, I...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.6
+C456,There is a strange man outside our home and he hollered.,Suspicious activity,Incident: Suspicious activity,Unknown,Distressed,0.68
+C458,My wife says in the bathroom she is bleeding all over the place. She thinks she'...,Medical emergency,Incident: Medical emergency | Urgency phrases: bleeding,Unknown,Distressed,0.67
+C459,"and since May 8th, we've just got robbed. Okay, what they look like.",Robbery / theft in progress,Incident: Unknown incident,Unknown,Calm,0.66
+C460,We've got a person here who is not fit to drive and needs to be taken to that sy...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.8
+C461,"because I'm the lady, I'm my teenage lady, she was yelling for help, and they lo...",Public disturbance / riot,Incident: Unknown incident | Urgency phrases: help,Unknown,Distressed,0.78
+C462,"There's somebody killed someone. Okay, ask for where the suspect is.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.66
+C463,911.... We're at...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.66
+C464,"And easy and good shots of blood fire There, go against the middle of the high e...",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Calm,0.61
+C465,I need an ambulance for two hours. Somebody just come and collect you up. What a...,Medical emergency,Incident: Medical emergency,Unknown,Distressed,0.72
+C466,units know that it is confirmed rotation on the ground. Just want to roll our ho...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Our House,Distressed,0.57
+C467,way into the north I've seen a funnel cloud just reporting my firstailing.,Public disturbance / riot,Incident: Unknown incident,Unknown,Distressed,0.62
+C468,We just got in the tornado and the car slipped and the windows mercy and we're b...,Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: bleeding,Unknown,Distressed,0.68
+C469,I told you this came across there say 24 okay. Yeah,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.47
+C470,"Yeah, I have a rotating cloud coming in a southwest of Regis, as far as me.",Public disturbance / riot,Incident: Unknown incident,Unknown,Calm,0.59
+C471,"Yes, it looks like we're gonna touch down on broad moral. Are you hard car? No, ...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Calm,0.49
+C472,"No, ma'am, we can see a tornado. We're at 914, Hillcrest. We have about five of ...",Unknown incident,Incident: Unknown incident | Locations: Hillcrest,Hillcrest,Calm,0.51
+C473,"My mom, she's sick and she can't wait to see you. She can't wait, God.",Medical emergency,Incident: Unknown incident,Unknown,Calm,0.68
+C474,I'm so glad we need the wheels to the car. She ran over three people in a row. W...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Calm,0.77
+C475,Where is the guy with the gun in the case he's with Ames? Which case is the Linc...,Physical assault / fight,Incident: Unknown incident | Names: Ames,Unknown,Distressed,0.64
+C476,I'm just kidding the sounds of it. You can hear it in. Who is that? That's the c...,Missing person report,Incident: Unknown incident,Unknown,Distressed,0.46
+C478,"My phone is on my phone. Okay, 615. It's okay.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.35
+C479,"and then warrant. There's a fire back here at someone's front porch. Okay, where...",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.68
+C480,We just saw a big airliner just being coated by two five planes.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C481,"So where will we have a revet? Okay, thank you.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.53
+C482,emergency. Oh that's the F18 chasing a big commercial plane around and around al...,Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Those Downtown,Distressed,0.84
+C483,"Yeah, I had two unusual aircraft fly really close.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C484,I'm the designer of the house and I'm really just a robber. What are your addres...,Robbery / theft in progress,Incident: Robbery / theft in progress,The House,Distressed,0.59
+C485,by the river the dog jumped in the water and we can't get out. Oh my god!,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.81
+C486,"Just let me just walk up and then we'll settle down and drop. Okay, sir, stay wi...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.35
+C487,"If not, I'm calling from the Sheraton Baltimore North. Yes sir. We have a dead b...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.69
+C488,because they just jumped my 13 year old daughter and it's about to be all hell f...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.91
+C489,We got off for damn. What do you mean you have an off? We don't have a whole bun...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.42
+C490,Женяа Мouble,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.7
+C491,"You know, Lyleview's shut down. You heard what? I seen a Lyleview's quiet down.",Unknown incident,"Incident: Unknown incident | Names: Lyleview, Lyleview | Urgency phrases: now",Unknown,Distressed,0.61
+C492,It's too late. And the high winds have the...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.46
+C493,"We had a dead body right out in front of our school in the grass area, but we're...",Unknown incident,Incident: Unknown incident | Locations: the John Fee | Names: John,the John Fee,Distressed,0.64
+C495,"If the address is 1160 Ray Road, we have a baby missing out of a crib.",Road accident / vehicle crash,Incident: Missing person report,Unknown,Distressed,0.73
+C496,I just called over to my sister's house and I have a phone.,Unknown incident,Incident: Unknown incident,Sister'S House,Distressed,0.49
+C497,The phone man following me from the application. Damn. Did he show the gun to yo...,Physical assault / fight,Incident: Suspicious activity,Unknown,Distressed,0.63
+C498,Somebody just came in and shot my daughter and my husband. They shot them? They ...,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.73
+C499,I'm watching TV and I heard five shots and there's someone laying in my front ya...,Suspicious activity,Incident: Physical assault / fight,Unknown,Distressed,0.63
+C500,I just killed my family. What's the knife? All of them. All for real. What's you...,Unknown incident,Incident: Unknown incident | Names: Michael Miller,Unknown,Distressed,0.66
+C501,My mom's oxidative is my empty brain Her fever where are you? not anapsadidation,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C502,I'm not going to be a police fire ambulance. I need to be a police comm. I'm a b...,Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.39
+C503,I'm pulled over in the road. My husband's in the middle of the road having a ser...,Road accident / vehicle crash,Incident: Unknown incident,The Road,Distressed,0.61
+C504,"Well, my husband's not, I cannot seem to wake him up.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C505,"Now listen here. I've got two people here help hospital, right? Okay. Now you kn...",Unknown incident,"Incident: Unknown incident | Urgency phrases: help, now",Unknown,Distressed,0.61
+C506,see. Bargur was breaking into a house next door. What's the address there sir? 7...,Robbery / theft in progress,Incident: Unknown incident | Names: Bargur,A House,Distressed,0.6
+C507,"Our state, we have a Burmese python, it's about 12 foot long, she got out of the...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.65
+C508,"We were just said and talking my wife, you know Bob, and then she fell on the fl...",Medical emergency,Incident: Unknown incident | Names: Bob | Urgency phrases: now,Unknown,Distressed,0.57
+C509,"I don't want to go. Hey, just before I made a street up here by Wild Rock chasin...",Unknown incident,Incident: Unknown incident | Locations: Wild Rock,Wild Rock,Distressed,0.68
+C510,It's a must've been shot. I haven't picked the vitals.,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.65
+C511,There's a guy there with a gun. Yeah. Black and white. Black and white.,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.63
+C512,"went to add some guys walking around a parking lot, looking for some guys that a...",Missing person report,Incident: Missing person report | Urgency phrases: please,Unknown,Calm,0.27
+C513,"Yeah, the man on the phone says there's a man on his property with a gun. Okay, ...",Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.64
+C514,I just been bitten by a red tail fox up in Red Reef Park.,Unknown incident,Incident: Unknown incident | Locations: Red Reef Park,Red Reef Park,Distressed,0.67
+C515,"Yes. We had a, I think, a shooting right now on the bus barn on the high school.",Physical assault / fight,Incident: Physical assault / fight | Urgency phrases: now,Unknown,Distressed,0.75
+C516,"out, not working. Not working. My babies are in there. Oh my God, I'm moved here...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.68
+C517,Somebody just came in and shot my daughter and my husband. They shot them. Pleas...,Unknown incident,Incident: Physical assault / fight | Urgency phrases: please,Unknown,Calm,0.74
+C518,is not breathing. Okay. Is there any way you can,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.66
+C519,What do I think? I think I need an ambulance. I've got a teenager who's turning ...,Medical emergency,Incident: Medical emergency,Unknown,Distressed,0.78
+C520,"Yeah, there's been a bunch of guns out to my house. I think a bunch of people we...",Physical assault / fight,Incident: Physical assault / fight,Unknown,Calm,0.62
+C521,"estoy hablando aquí el chico de la mongos si, que pasa están unos hombres",Unknown incident,Incident: Unknown incident | Names: hablando aquí el chico de la mongos si,Unknown,Distressed,0.61
+C522,Inside everyone in,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.61
+C523,And it's like I just tried to get out of this car. I got out of this car and he ...,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.62
+C524,"Somebody has been shot. They're calling to please and an ambulance. Yes, does he...",Medical emergency,Incident: Physical assault / fight | Urgency phrases: please,Unknown,Distressed,0.85
+C525,I'm just having older women standing here and she had noticed two gentlemen tryi...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.39
+C526,"superintendent, part 2, thank you.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.5
+C527,I have been in the news recently about being on in a hotel naked.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C528,There's an armed robbery going right on right now. I've been shot in the back an...,Robbery / theft in progress,"Incident: Robbery / theft in progress | Urgency phrases: now, bleeding",Unknown,Distressed,0.69
+C529,"And yes, my friends have to have me. He doesn't have to. He'll have to.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.31
+C530,Hope all is well.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.4
+C531,"emergency, my girlfriend just jumped off the back of our hotel room.",Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.94
+C532,"Yes, other guys been shot. Okay, right here on Burdenon Avenue. I want to see if...",Unknown incident,Incident: Physical assault / fight | Locations: Burdenon Avenue,Burdenon Avenue,Calm,0.69
+C533,"No, there's people trying to break in my house. Okay, they're there right now. T...",Robbery / theft in progress,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.65
+C534,"Alright, I killed my girlfriend. Excuse me? Did you hear me? I want you to re-",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.73
+C535,three black men in the middle of Russell Boulevard and one of them has like a,Unknown incident,Incident: Unknown incident | Names: Russell Boulevard,Unknown,Calm,0.6
+C536,"it was a bus. Let me see. Okay, I'm right. Yeah. It's wrapped by one...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C537,"And with the already got somebody on the way, can you give me any kind of descri...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C538,There are three black gentlemen that are there harassing the women out there.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C539,"I was at a McDonald's, I paid $10 and these guys gave me one burger and a five.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C540,I gave you guys $10 they gave me one burger and a fry and told me to fuck.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C541,I've been run over. I've been run over. They all use real chat for...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C542,"Yes, my husband is a black man, I stabbed him. Okay, what's your address? 94 95 ...",Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.58
+C543,I'm driving and I have somebody chasing me and they just hit my car.,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.64
+C544,"I'm gonna go to my son, he's here. He's here. I think he's drunk. I don't know i...",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.57
+C545,"Well, I'm the arm drum now, I'm just trying to figure out the thing when you hit...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,Unknown,Distressed,0.55
+C546,Why do I think we have to make this shit worth a matter? I'm at the court.,Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.43
+C547,I have a concern for a co-worker. She just called me and sounded very...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.67
+C548,"I just think, he's called family, he's dead. He's trying to hysterical, I can't ...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.63
+C549,"That being fired in so many things, how? So I'm finshada. Yeah, you can slide th...",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.43
+C550,Someone is getting my house. It was an issue.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.7
+C551,I just saw a guy go into a room.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.49
+C552,I'm sorry.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.46
+C553,"Just been shot in front of my parents. You've been shot? Yes, right. Where have ...",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.6
+C554,"Yes, the guy is following us with shotgun and he's trying to run us off the road...",Road accident / vehicle crash,Incident: Physical assault / fight,Unknown,Calm,0.64
+C555,"Somebody just broke into our house. With the address, Kevin, to me. With the add...",Unknown incident,Incident: Physical assault / fight | Names: Kevin,Unknown,Distressed,0.65
+C556,I just got my daughters and my children. You just did a lot of it? Got my daught...,Missing person report,Incident: Unknown incident,Unknown,Calm,0.58
+C557,Which two people in the house? Do they have weapons? Huh? Yes. What type of...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C558,"Hi, my name is Stephen Rodwald and I just heard a shoot my dad.",Physical assault / fight,Incident: Unknown incident | Names: Stephen Rodwald,Unknown,Calm,0.67
+C559,The baby was fully seeing the mother I had.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.6
+C560,My name is Stacy and I'm driving towards Ontario and a car went off into me at m...,Road accident / vehicle crash,Incident: Road accident / vehicle crash | Locations: Ontario,Ontario,Calm,0.63
+C561,I just can't get him sex with a window. Is anybody hurting your house? I don't k...,Physical assault / fight,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.59
+C562,Two people are breathing towards no call. Yes.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.31
+C563,What's going on? I don't know. Somebody broke the window I know. And your house ...,Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,Your House,Calm,0.53
+C564,there are two men who was going to try to kill me. They have my husband on the f...,Medical emergency,Incident: Medical emergency | Urgency phrases: bleeding,Unknown,Distressed,0.66
+C565,"Hey, the sprawler has taken a very good death trail. Yeah, people enjoy it. So, ...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.56
+C566,"and there were some kids over there, just one other kid, little fire and another...",Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.65
+C567,The little boy just called on fire and he jumped off the other swimming car. Wha...,Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.76
+C568,I cut my wife so sweet in the bathtub and I think she's dead. I want you with th...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.73
+C569,"right now. She just gone and I need him out. Is this house? Okay, what do you me...",Missing person report,Incident: Missing person report | Urgency phrases: now,Unknown,Distressed,0.84
+C570,I just killed my boss. You just did what?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.62
+C571,"Yeah, I have a black guy in here. He says he's gonna wrap the store and anyone i...",Physical assault / fight,Incident: Unknown incident,The Store,Distressed,0.67
+C572,Hello. I need to raise up to you. Please come on in.,Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Calm,0.61
+C573,"Please. Thank you, sir. Thank you. Good afternoon. Good afternoon. May I?",Unknown incident,Incident: Unknown incident | Urgency phrases: please,Unknown,Calm,0.43
+C574,I have so many people are shooting and people are running out of my building at ...,Physical assault / fight,Incident: Physical assault / fight,My Building,Distressed,0.84
+C575,"Yes, ma'am, I'm having a shot. BEEP BEEP",Unknown incident,Incident: Physical assault / fight,Unknown,Calm,0.58
+C576,Or Nothing is going to keep you as a different from the other right now? Take yo...,Unknown incident,Incident: Unknown incident | Names: Obi Wan | Urgency phrases: now,Unknown,Distressed,0.2
+C577,I'm bringing the key to the master right now. I work at 3 Bay and a couple of th...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.69
+C578,We were closing the store and the guy came in with a mask on and I think...,Unknown incident,Incident: Unknown incident,The Store,Distressed,0.61
+C579,"I'm not sorry, my neighbor came. And now she said her husband said, the baby, I'...",Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: now,Unknown,Distressed,0.58
+C580,He will just throw in my neighbor's house. Just the address. What's the address?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C581,I think I got shot. Danny Sriper 4203 Lake Avenue with Fumbi.,Unknown incident,"Incident: Physical assault / fight | Locations: Lake Avenue, Fumbi | Names: Danny Sriper 4203",Lake Avenue,Distressed,0.66
+C582,Thank youfilberg so the,Unknown incident,Incident: Unknown incident | Names: youfilberg,Unknown,Calm,0.59
+C583,"Your mommy's sick. If your mommy's sick, does she need an ambulance? Mommy.",Medical emergency,Incident: Medical emergency | Names: Mommy,Unknown,Distressed,0.64
+C584,I woke up this morning and my daughter was not in the house. I don't know if she...,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.62
+C585,What's going on man?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.64
+C586,I just killed my daughter. You what? I just killed my daughter.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.62
+C587,"I'm a literacy expert. Man, man, man, man, man, man, calm down.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.29
+C588,I need to unambient quickly and out of fire fire in commission,Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.89
+C589,The house is on fire. The house is blowing up. Can you guys can listen? We've al...,Building fire / trapped persons,Incident: Building fire / trapped persons,The House,Distressed,0.84
+C590,There's a man at my back door he's trying to get in.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.67
+C591,"Не, не, не к dunkу!",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C592,His friends are his friends because it's one of the things I don't know.,Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.51
+C593,"left heading south on 9.51. Yeah, it's a fairly new model truck. Looks like a Do...",Road accident / vehicle crash,Incident: Unknown incident,Unknown,Calm,0.51
+C594,"We've found an elephant walking down the street near the community center, the r...",Unknown incident,Incident: Unknown incident,The Street,Distressed,0.59
+C595,"Oh, I was coming to pass out. Is there anything else? I was coming to pass out.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.49
+C596,I think I know why you could follow me home because somebody thinks it feels a b...,Suspicious activity,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.64
+C597,radio light happened in the lobby with the gun. All right. Is everybody okay? Ev...,Physical assault / fight,Incident: Unknown incident,Unknown,Calm,0.65
+C598,"Can we meet police assistance for this? Okay, what's going on?",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.64
+C599,My mom and her boyfriend and her boyfriend felt marijuana.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C600,"I accidentally shot my husband. You accidentally shot your husband? Yes. OK, is ...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Distressed,0.59
+C602,"Uh, these came up to visit all of the home fathers. Uh-huh. And I think they wer...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.51
+C603,I'm going to cost him a gunpoint and the 3400 block to highway drive southeast.,Physical assault / fight,Incident: Unknown incident,To Highway,Distressed,0.67
+C604,I need to tell a few minutes to start shooting. I don't know where I'm at. One w...,Physical assault / fight,Incident: Physical assault / fight | Urgency phrases: now,Unknown,Distressed,0.66
+C605,We got a baby that's not responsible. We're at 3301 West Noelle Drive.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C606,I'm going to return air cream. Just went down off of Encona. And airplane.,Unknown incident,Incident: Unknown incident | Locations: Encona,Encona,Distressed,0.57
+C607,"I'm not in any danger right now, but it's all my urgent. These people, they came...",Unknown incident,"Incident: Unknown incident | Urgency phrases: urgent, now, danger",Unknown,Calm,0.9
+C608,I might just call it the potential robbery and my mother's been missing for... I...,Robbery / theft in progress,Incident: Robbery / theft in progress | Urgency phrases: now,Unknown,Distressed,0.56
+C609,Ok my dad does not expect you to do it Ok,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.18
+C610,"I went off the road, I'm in a retention pond right now. You're in the retention ...",Road accident / vehicle crash,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.62
+C611,your emergency? I've got a gentleman in quarantine with a gun. I need someone he...,Physical assault / fight,"Incident: Unknown incident | Urgency phrases: emergency, now",Unknown,Distressed,0.85
+C612,I need a phyllo-prove laser for a computer officer to my house.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.73
+C613,"sake if you need help, any further attention , Mill and Police Provost For explo...",Unknown incident,Incident: Unknown incident | Names: Mill | Urgency phrases: help,Unknown,Distressed,0.65
+C614,She's shooting at her! Come to the fucking house! That's not the way!,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.87
+C615,"I just killed my kids. What's your name, male? Julia Murray. What is it?",Missing person report,Incident: Unknown incident | Names: Julia Murray,Unknown,Distressed,0.6
+C616,"I'm not going to try to jump the other way, I'm going to go. And I'm trying to a...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C617,the building on 334 south of 8 quarters on fire. Report of a house fire house fi...,Building fire / trapped persons,Incident: Building fire / trapped persons,The Building,Distressed,0.68
+C618,"there's a house on fire. There's a house on fire. 30, 30, 30, 38.",Building fire / trapped persons,Incident: Building fire / trapped persons,A House,Distressed,0.6
+C619,"I think there's been a murder. Okay, and where is the person at? Is the victim?",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.76
+C620,"Dude, beau. Oh, no, you're not perm-лек-pp , then. You're not abdominal, far mor...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C621,There's a fight broke out in the liquor store. There's a customer holding him ba...,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.73
+C622,"your husband shot you at, man. Remember stomachs. Okay, worse.",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.62
+C623,I've got a black man here who's supposed to come out of house. Repanded.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C624,We have a trainer in the water with one of our whales. The whale that's set up t...,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.57
+C625,"There's some car, there's some guy, there's gonna be a way more than that. Can y...",Road accident / vehicle crash,Incident: Road accident / vehicle crash,Unknown,Calm,0.67
+C626,"I think the house will fire. Okay, with me, and we are is it? One, two, two, one...",Building fire / trapped persons,Incident: Building fire / trapped persons,The House,Calm,0.59
+C627,"Yes, you're big. You just wanted to go back. I don't know where you are.",Unknown incident,Incident: Unknown incident | Urgency phrases: now,Unknown,Calm,0.58
+C628,"Yeah, I just killed somebody. You what? I just killed somebody. You killed someb...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.6
+C629,"shots, cooperate with the public. do it all right, arm and back.",Unknown incident,Incident: Physical assault / fight,Unknown,Calm,0.64
+C630,"Orn Cavenday, there's somebody shot somebody in the store. Okay, orn Cavenday, w...",Unknown incident,Incident: Physical assault / fight | Names: Orn Cavenday,Unknown,Distressed,0.69
+C631,the media leaders that died with a knife for me. Brown token. Don't threaten me.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.66
+C632,"Okay, is that a single family home or an apartment man?",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C633,"My point goes shot. Alright, Santa, I want to come in with you. Are you over the...",Unknown incident,Incident: Physical assault / fight | Locations: Santa | Names: Lesky,Santa,Calm,0.62
+C634,"don't worry Nyda second car, now drop drop drop drop the fool or they're suingl ...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,Unknown,Distressed,0.79
+C635,I don't have money to buy a ticket. I don't have money.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C636,or there's none. This is my one one. Do you need police or medical...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.37
+C637,"Yes, they are killing so we have pardoned.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C638,"Hey, I got her, I got an audio. Seminole with the transistor. Okay, pull it. Oka...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C639,"I'm not a mom or a guy shot. What? I'm not a man, I'm not a guy shot. Bye, who?",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.53
+C640,There's been an explosion on I 30 on I'm sorry 183 research. I'm gonna test you....,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.7
+C641,"Okay, what kind of plane was it? How big was it, sir? It looked like a desna, li...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C642,"No, it's worth everything I'm getting ready to kill somebody. No, it's worth whe...",Unknown incident,"Incident: Unknown incident | Names: Everton, Everton",Unknown,Distressed,0.78
+C643,be interrupted by consumption of time smoked and 41 정도로吵到,Building fire / trapped persons,Incident: Building fire / trapped persons,Unknown,Distressed,0.6
+C644,I just saw my best friend on the X-E-Santz. Oh my god! I just shot your best fri...,Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.75
+C645,"And it's what I already saw with me. Okay, how cool. Hey, buddy. Hey, buddy.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.4
+C646,"My dad told me my duck. Her, her dad.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.57
+C647,I went out broke. I hope she was not back and I was getting her in. Should have ...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C648,"Hey, guys, I just saw a Godfly, two shots after a...",Unknown incident,Incident: Physical assault / fight | Locations: Godfly,Godfly,Distressed,0.58
+C649,I can't see anything. I was struck with a bottle. And I'm a freak.,Road accident / vehicle crash,Incident: Unknown incident,Unknown,Distressed,0.62
+C650,are you,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.58
+C651,We had someone come in and asked for dial 911 that there's a woman yelling.,Public disturbance / riot,Incident: Unknown incident,Unknown,Distressed,0.72
+C652,"Okay, it's a mind. Ma'am? Yes. What's the emergency? I...",Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Calm,0.52
+C653,There's someone at my door and he keeps on knocking on the door and he tried ope...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.65
+C654,I just killed my children. Excuse me? I just killed my children. Where are you?,Missing person report,Incident: Unknown incident,Unknown,Distressed,0.64
+C655,I have ordered food which is totally ridiculous you can get.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.55
+C656,It sounded like gunshot behind the door. We were in the door at the title store.,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.63
+C657,This is an emergency. My car is in the litter right off the street. Mullins car.,Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: emergency,Unknown,Distressed,0.99
+C658,I make sure to report gun shot wound. Someone gun shot wound.,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.7
+C659,"Okay, I got her a female shot 17831, someone had a new apartment and...",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.54
+C660,I just came home in my girlfriend and my mother somebody worked at the moment wh...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.42
+C661,Okay.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.41
+C662,my brother killed my brother. I heard this street name but you're going outside ...,Unknown incident,Incident: Unknown incident,This Street,Distressed,0.68
+C663,"There's a guy laying on the road he's leaving. OK, man, I'm going to even hit by...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,The Road,Distressed,0.5
+C664,I can't find my son. Calm down. What is your address?,Missing person report,Incident: Unknown incident | Names: Calm,Unknown,Distressed,0.51
+C665,I killed my boat kids. I'm sorry? I killed my boat kids. They are dying. I...,Medical emergency,Incident: Unknown incident | Urgency phrases: dying,Unknown,Distressed,0.64
+C666,Is there a report of somebody shooting? I don't know where. Do you know if anybo...,Physical assault / fight,Incident: Physical assault / fight | Urgency phrases: now,Unknown,Distressed,0.64
+C667,Where's your emergency? There's a gunshot. We're at. Gunshot in 1600. 1600.,Physical assault / fight,Incident: Physical assault / fight | Urgency phrases: emergency,Unknown,Distressed,0.68
+C668,"Who are at our house and told us to break into our house? Okay, where's your mom...",Robbery / theft in progress,Incident: Unknown incident,Our House,Distressed,0.64
+C669,Hello sir. Yeah. Did you dial 911 a little while ago?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C670,The shoot over in the main center. That's why you serve. I'm in the building.,Physical assault / fight,Incident: Unknown incident,Unknown,Calm,0.65
+C671,There are bees like hundreds swarming around a guy who can't get up off the grou...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.67
+C672,20 feet underwater. There! We need to get out here! Out of here! 9-1!,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.91
+C673,And so we get fit What is that? Vyremal What kind of animal is that?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.58
+C674,"I didn't mean it's gonna be right down. Alright, we will ask her this.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.35
+C675,One of the kids was at the first holiday on the day and I don't know if she's ok...,Missing person report,Incident: Unknown incident | Urgency phrases: now,Unknown,Distressed,0.7
+C676,"The fight, man, it's smoking out, man. You think Green Park and Dogwood?",Physical assault / fight,"Incident: Physical assault / fight | Locations: Green Park, Dogwood",Green Park,Distressed,0.8
+C677,She's not waking up. Okay. What's her address?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.56
+C678,"Indeed, it is. Yeah. Huh? Let's go. Oh! These people are medical errors.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C679,"I just shot the Mormons Bishop over here until they're here. You did? Yes, it is...",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.62
+C680,And this guy has a gun in my hat. I need the cloth. The God's got a gun in my ha...,Physical assault / fight,Incident: Unknown incident,Unknown,Distressed,0.61
+C681,for at least four or five people to part at the end. That's where. This is where...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.61
+C682,"I'm going to start with the exact same rules. By a loose, okay? And if he consci...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.53
+C683,"Yeah, we just, I need to report a kidnapping. We're kidnapping, what happened? A...",Missing person report,Incident: Unknown incident,Unknown,Distressed,0.76
+C684,"Hi, I called a little while ago and believe I talked to Stacy. My...",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.6
+C685,emergency.,Unknown incident,Incident: Unknown incident | Urgency phrases: emergency,Unknown,Distressed,0.85
+C686,"Yes, ma'am. I need somebody to come to Penicry, Glendon. Okay.",Unknown incident,Incident: Unknown incident | Locations: Glendon,Glendon,Calm,0.65
+C687,My name is Mary Lyons. I'm the Banking Center Manager at Bank of America at 185 ...,Robbery / theft in progress,Incident: Unknown incident | Names: Mary Lyons,At Bank,Calm,0.55
+C688,"You mean some reason to ask her on my mom? Yeah, I don't even, she just called.",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.19
+C689,This is the hospital. Where am I at? On that dog's office. They're shooting in t...,Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.58
+C690,The old North Shore Road and my husband's been attacked by a bear.,Road accident / vehicle crash,Incident: Physical assault / fight | Locations: North Shore Road,North Shore Road,Distressed,0.68
+C691,Somebody somebody's full of them is our shoe and they're not shot by two pieces....,Unknown incident,Incident: Physical assault / fight,Unknown,Calm,0.61
+C692,"Oh my god, the fire! So now, it's the level where I'm inside.",Building fire / trapped persons,Incident: Building fire / trapped persons | Urgency phrases: now,Unknown,Calm,0.77
+C693,"on 23rd grade. This is Tony Guzman, I'm a staffer and he was overheaded towards.",Unknown incident,Incident: Unknown incident | Names: Tony Guzman,Unknown,Calm,0.54
+C694,"high, a little airplane, a little one-engine airplane took off from the airport ...",Unknown incident,"Incident: Unknown incident | Locations: 83rd Street, Christ",83rd Street,Distressed,0.59
+C695,"I'm sorry. Good outdoor. Good things. Yes, ma'am. Yes, ma'am.",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.45
+C696,Hello. Is everything okay? Ah.,Unknown incident,Incident: Unknown incident,Unknown,Calm,0.49
+C697,"Okay, what do you need to believe?",Unknown incident,Incident: Unknown incident,Unknown,Calm,0.52
+C698,"Yes, I need the police please, as my house. Glad to. I think we need an ambulanc...",Medical emergency,Incident: Medical emergency | Urgency phrases: please,Unknown,Distressed,0.55
+C699,Okay. We need a person back in the meat department to get an in.,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.59
+C700,What do you need? You need the police?,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.51
+C701,"Somebody go into my house. Where the hell is that? What's your address? Yeah, bu...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.71
+C702,"We just got a lot to come upon. It's gonna come here with a gun, shot one of our...",Physical assault / fight,Incident: Physical assault / fight,Unknown,Distressed,0.59
+C703,Uh...,Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.44
+C704,"Oh, my mind's at the doctor. You're not at the doctor. Are you there alone?",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.53
+C705,"I'm the one who wanted this to show right now. She got me in the blue, she's dow...",Road accident / vehicle crash,Incident: Road accident / vehicle crash | Urgency phrases: now,Unknown,Distressed,0.62
+C706,"Oh, there's a student. Who's been shot, man?",Unknown incident,Incident: Physical assault / fight,Unknown,Distressed,0.65
+C707,"Yes, I need a police officer over here. What's going on? Um...",Unknown incident,Incident: Unknown incident,Unknown,Distressed,0.73
